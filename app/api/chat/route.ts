@@ -72,31 +72,33 @@ async function chatCompletion(messages: Message[], tools?: any[]) {
 
 const SYSTEM_PROMPT = `You are an AI course advisor for NYU Shanghai students.
 
-Use tools efficiently. Most tasks should complete in 3-5 tool calls.
+CRITICAL: Complete tasks in 3-5 tool calls maximum. Stop when you have enough information.
 
 Key tools:
-- generate_personalized_schedule: generates full schedule (includes profile check, requirement check, conflict resolution)
-- detect_minor_opportunities: finds minor opportunities from completed courses
-- estimate_workload: calculates total workload
-- get_community_reviews: gets student reviews
+- generate_personalized_schedule: ONE CALL generates full schedule (includes profile, requirements, conflicts)
+- estimate_workload: ONE CALL calculates workload
+- detect_minor_opportunities: ONE CALL finds minors
 
-For "生成课表" requests:
-1. generate_personalized_schedule (campus="New York" if Study Away)
-2. If schedule looks incomplete: detect_minor_opportunities
-3. estimate_workload
-4. Done
+For "生成课表":
+1. generate_personalized_schedule (campus="New York")
+2. estimate_workload
+3. STOP and respond
 
-For simple queries:
-- "这门课怎么样" → get_community_reviews
-- "我能选吗" → check_prerequisites
-- "有什么课" → search_courses
+For "还需要上什么课":
+1. get_student_profile
+2. detect_minor_opportunities
+3. get_major_requirements
+4. STOP and respond
 
-Default context:
-- student_id: yl8888
-- term: Fall 2026
-- Study Away to New York
+For "这门课怎么样":
+1. get_community_reviews
+2. STOP and respond
 
-Respond in 简体中文. Be direct. Highlight risks with ⚠️.`;
+NEVER call the same tool twice. NEVER call get_student_profile if you already have profile data.
+
+Default: student_id=yl8888, term=Fall 2026, campus=New York
+
+Respond in 简体中文.`;
 
 export async function POST(request: Request) {
   const { messages } = await request.json();
@@ -128,15 +130,11 @@ export async function POST(request: Request) {
     timestamp: string;
   }> = [];
   let currentMessages = conversationMessages;
-  let maxIterations = 20;
+  let maxIterations = 10;
   let iterationCount = 0;
 
   let scheduleResult: any = null;
   let courseAccessResult: any = null;
-
-  // Early stop: if AI generates schedule + workload, that's enough
-  let hasSchedule = false;
-  let hasWorkload = false;
 
   while (maxIterations > 0) {
     maxIterations--;
@@ -209,16 +207,12 @@ export async function POST(request: Request) {
 
           if (toolName === 'generate_personalized_schedule' && result?.schedule) {
             scheduleResult = result;
-            hasSchedule = true;
           }
           if (toolName === 'replace_schedule_course' && result?.schedule) {
             scheduleResult = result;
           }
           if (toolName === 'evaluate_course_access_with_plan' && result) {
             courseAccessResult = result;
-          }
-          if (toolName === 'estimate_workload' && result) {
-            hasWorkload = true;
           }
 
           return {
@@ -247,14 +241,6 @@ export async function POST(request: Request) {
     );
 
     currentMessages.push(...toolResults);
-
-    // Early stop: if we have schedule + workload, encourage AI to finish
-    if (hasSchedule && hasWorkload && iterationCount >= 3) {
-      currentMessages.push({
-        role: 'system',
-        content: 'You have generated schedule and checked workload. You have enough information. Generate final response now.',
-      });
-    }
   }
 
   const result: any = {
