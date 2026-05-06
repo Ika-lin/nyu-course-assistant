@@ -1,0 +1,2202 @@
+{
+  "source": "Computer Science Pre-requisites & Equivalencies.xlsx",
+  "description": "CS-related cross-campus equivalencies and prerequisite reference rows.",
+  "equivalencies": [
+    {
+      "cas_courant": "CSCI-UA 2 Introduction to Computer Programming",
+      "tandon": "CS-UY 1114 Intro To Programming & Problem Solving",
+      "abu_dhabi": "CADT-UH 1013EQ Language of Computers",
+      "shanghai": "CSCI-SHU 11 Intro to Computer Programming",
+      "codes": {
+        "cas_courant": "CSCI-UA 2",
+        "tandon": "CS-UY 1114",
+        "abu_dhabi": "CADT-UH 1013E",
+        "shanghai": "CSCI-SHU 11"
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 4 Introduction to Web Design and Computer Principles",
+      "tandon": "",
+      "abu_dhabi": "",
+      "shanghai": "",
+      "codes": {
+        "cas_courant": "CSCI-UA 4",
+        "tandon": "",
+        "abu_dhabi": "",
+        "shanghai": ""
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 60 Database Design and Implementation",
+      "tandon": "",
+      "abu_dhabi": "",
+      "shanghai": "",
+      "codes": {
+        "cas_courant": "CSCI-UA 60",
+        "tandon": "",
+        "abu_dhabi": "",
+        "shanghai": ""
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 61 Web Development and Programming",
+      "tandon": "",
+      "abu_dhabi": "",
+      "shanghai": "",
+      "codes": {
+        "cas_courant": "CSCI-UA 61",
+        "tandon": "",
+        "abu_dhabi": "",
+        "shanghai": ""
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 101 Introduction to Computer Science",
+      "tandon": "CS-UY 1114 Intro To Programming & Problem Solving",
+      "abu_dhabi": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers (counts only as equivalent if completed with A or A-)",
+      "shanghai": "CSCI-SHU 101 Introduction to Computer Science",
+      "codes": {
+        "cas_courant": "CSCI-UA 101",
+        "tandon": "CS-UY 1114",
+        "abu_dhabi": "CS-UH 1001",
+        "shanghai": "CSCI-SHU 101"
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "MATH-UA 120 Discrete Math",
+      "tandon": "MA-UY 2314 Discrete Math",
+      "abu_dhabi": "CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math",
+      "shanghai": "CSCI-SHU 2314 Discrete Math",
+      "codes": {
+        "cas_courant": "MATH-UA 120",
+        "tandon": "MA-UY 2314",
+        "abu_dhabi": "CS-UH 1002",
+        "shanghai": "CSCI-SHU 2314"
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 102 Data Structures",
+      "tandon": "CS-UY 1134 Data Structures and Algorithms",
+      "abu_dhabi": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms",
+      "shanghai": "CSCI-SHU 210 Data Structures",
+      "codes": {
+        "cas_courant": "CSCI-UA 102",
+        "tandon": "CS-UY 1134",
+        "abu_dhabi": "CS-UH 1050",
+        "shanghai": "CSCI-SHU 210"
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 201 Computer Systems Organization",
+      "tandon": "CS-UY 2214 Computer Architecture and Organization",
+      "abu_dhabi": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+      "shanghai": "CENG-SHU 202 Computer Architecture",
+      "codes": {
+        "cas_courant": "CSCI-UA 201",
+        "tandon": "CS-UY 2214",
+        "abu_dhabi": "CS-UH 2010",
+        "shanghai": "CENG-SHU 202"
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 310 Basic Algorithms",
+      "tandon": "CS-UY 2413 Design & Analysis of Algorithms",
+      "abu_dhabi": "CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms",
+      "shanghai": "CSCI-SHU 220 Algorithms",
+      "codes": {
+        "cas_courant": "CSCI-UA 310",
+        "tandon": "CS-UY 2413",
+        "abu_dhabi": "CS-UH 1052",
+        "shanghai": "CSCI-SHU 220"
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 202 Operating Systems",
+      "tandon": "CS-UY 3224 Operating Systems",
+      "abu_dhabi": "CS-UH 3010 Operating Systems OR ENGR-UH 3520 Operating Systems",
+      "shanghai": "CSCI-SHU 215 Operating Systems",
+      "codes": {
+        "cas_courant": "CSCI-UA 202",
+        "tandon": "CS-UY 3224",
+        "abu_dhabi": "CS-UH 3010",
+        "shanghai": "CSCI-SHU 215"
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 473 Machine Learning",
+      "tandon": "CS-UY 4563 Machine Learning",
+      "abu_dhabi": "CS-UH 2220 Machine Learning OR ENGR-UH 3332 Applied Machine Learning",
+      "shanghai": "CSCI-SHU 360 Machine Learning",
+      "codes": {
+        "cas_courant": "CSCI-UA 473",
+        "tandon": "CS-UY 4563",
+        "abu_dhabi": "CS-UH 2220",
+        "shanghai": "CSCI-SHU 360"
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 480 Special Topics: Computer Networks",
+      "tandon": "CS-UY 4793 Computer Networking OR ECE-UY 3613 Communication Networks",
+      "abu_dhabi": "CS-UH 3012 Computer Networks OR ENGR-UH 3512 Computer Networks",
+      "shanghai": "CSCI-SHU 308 Computer Networking",
+      "codes": {
+        "cas_courant": "CSCI-UA 480",
+        "tandon": "CS-UY 4793",
+        "abu_dhabi": "CS-UH 3012",
+        "shanghai": "CSCI-SHU 308"
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 480 Special Topics: Natural Language Processing",
+      "tandon": "N/A",
+      "abu_dhabi": "CS-UH 2216 Natural Language Processing",
+      "shanghai": "CSCI-SHU 376 Natural Language Processing",
+      "codes": {
+        "cas_courant": "CSCI-UA 480",
+        "tandon": "",
+        "abu_dhabi": "CS-UH 2216",
+        "shanghai": "CSCI-SHU 376"
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 480 Special Topics:",
+      "tandon": "CS-UY 4513 Software Engineering",
+      "abu_dhabi": "CS-UH 2012 Software Engineering",
+      "shanghai": "CSCI-SHU 410 Software Engineering",
+      "codes": {
+        "cas_courant": "CSCI-UA 480",
+        "tandon": "CS-UY 4513",
+        "abu_dhabi": "CS-UH 2012",
+        "shanghai": "CSCI-SHU 410"
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "N/A",
+      "tandon": "CS-UY 3083 Introduction to Databases",
+      "abu_dhabi": "CS-UH 2214 Database Systems OR ENGR-UH 3515 Database Systems",
+      "shanghai": "CSCI-SHU 213 Databases",
+      "codes": {
+        "cas_courant": "",
+        "tandon": "CS-UY 3083",
+        "abu_dhabi": "CS-UH 2214",
+        "shanghai": "CSCI-SHU 213"
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "N/A",
+      "tandon": "CS-UY 3923 Computer Security",
+      "abu_dhabi": "CS-UH 3210 Computer Security",
+      "shanghai": "CSCI-SHU 361 Computer Security",
+      "codes": {
+        "cas_courant": "",
+        "tandon": "CS-UY 3923",
+        "abu_dhabi": "CS-UH 3210",
+        "shanghai": "CSCI-SHU 361"
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 480 Special Topics: Computer Graphics",
+      "tandon": "N/A",
+      "abu_dhabi": "CS-UH 2215 Computer Graphics",
+      "shanghai": "N/A",
+      "codes": {
+        "cas_courant": "CSCI-UA 480",
+        "tandon": "",
+        "abu_dhabi": "CS-UH 2215",
+        "shanghai": ""
+      },
+      "notes": ""
+    },
+    {
+      "cas_courant": "CSCI-UA 480 Special Topics: Computer Vision",
+      "tandon": "N/A",
+      "abu_dhabi": "ENGR-UH 3331 Computer Vision",
+      "shanghai": "DATS-SHU 377 Computer Vision",
+      "codes": {
+        "cas_courant": "CSCI-UA 480",
+        "tandon": "",
+        "abu_dhabi": "ENGR-UH 3331",
+        "shanghai": "DATS-SHU 377"
+      },
+      "notes": ""
+    }
+  ],
+  "prerequisites": [
+    {
+      "course_code": "CSCI-UA 2",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "1.0 CSCI-UA 2 Introduction to Computer Programming 3 years of high school math 3 years of high school math 3 years of high school math",
+      "columns": {
+        "#": "1.0",
+        "courses": "CSCI-UA 2 Introduction to Computer Programming",
+        "ny cas prerequsites": "3 years of high school math",
+        "ad prerequsites": "3 years of high school math",
+        "sh prerequsites": "3 years of high school math"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 4",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "2.0 CSCI-UA 4 Introduction to Web Design and Computer Principles 3 years of high school math 3 years of high school math 3 years of high school math",
+      "columns": {
+        "#": "2.0",
+        "courses": "CSCI-UA 4 Introduction to Web Design and Computer Principles",
+        "ny cas prerequsites": "3 years of high school math",
+        "ad prerequsites": "3 years of high school math",
+        "sh prerequsites": "3 years of high school math"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 102",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "3.0 CSCI-UA 102 Data Structures Java course OR placement test Java course OR placement test",
+      "columns": {
+        "#": "3.0",
+        "courses": "CSCI-UA 102 Data Structures",
+        "ad prerequsites": "Java course OR placement test",
+        "sh prerequsites": "Java course OR placement test"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 201",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "4.0 CSCI-UA 201 Computer Systems Organization CSCI-UA 102 Data Structures CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms CSCI-SHU 210 Data Structures",
+      "columns": {
+        "#": "4.0",
+        "courses": "CSCI-UA 201 Computer Systems Organization",
+        "ny cas prerequsites": "CSCI-UA 102 Data Structures",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 202",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "5.0 CSCI-UA 202 Operating Systems CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "5.0",
+        "courses": "CSCI-UA 202 Operating Systems",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 310",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "6.0 CSCI-UA 310 Basic Algorithms CSCI-UA 102 Data Structures AND MATH-UA 120 Discrete Mathematics AND MATH-UA 121 Calculus I OR MATH-UA 211 Mathematics for Economics I CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND (CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math) AND (MATH-UH 1012Q Calculus with Applications to Science and Engineering OR MATH-UH 1013Q Calculus with Applications to Economics ) CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math AND (MATH-SHU 131 Calculus OR MATH-SHU 201 Honors Calculus )",
+      "columns": {
+        "#": "6.0",
+        "courses": "CSCI-UA 310 Basic Algorithms",
+        "ny cas prerequsites": "CSCI-UA 102 Data Structures AND MATH-UA 120 Discrete Mathematics AND MATH-UA 121 Calculus I OR MATH-UA 211 Mathematics for Economics I",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND (CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math) AND (MATH-UH 1012Q Calculus with Applications to Science and Engineering OR MATH-UH 1013Q Calculus with Applications to Economics )",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math AND (MATH-SHU 131 Calculus OR MATH-SHU 201 Honors Calculus )"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 330",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "7.0 CSCI-UA 330 Introduction to Computer Simulation MATH-UA 121 Calculus I OR MATH-UA 212 Math for Economics II (for Economics majors) AND PHYS-UA 11 General Physics MATH-UH 1012Q Calculus with Applications to Science and Engineering OR MATH-UH 1013Q Calculus with Applications to Economics AND Foundations of Science 1 and 2 (SCIEN-UH 1101EQ, 1102EQ, 1103, 1201EQ, 1202EQ, 1203) (MATH-SHU 131 Calculus OR MATH-SHU 201 Honors Calculus) AND PHYS-SHU 11 General Physics I",
+      "columns": {
+        "#": "7.0",
+        "courses": "CSCI-UA 330 Introduction to Computer Simulation",
+        "ny cas prerequsites": "MATH-UA 121 Calculus I OR MATH-UA 212 Math for Economics II (for Economics majors) AND PHYS-UA 11 General Physics",
+        "ad prerequsites": "MATH-UH 1012Q Calculus with Applications to Science and Engineering OR MATH-UH 1013Q Calculus with Applications to Economics AND Foundations of Science 1 and 2 (SCIEN-UH 1101EQ, 1102EQ, 1103, 1201EQ, 1202EQ, 1203)",
+        "sh prerequsites": "(MATH-SHU 131 Calculus OR MATH-SHU 201 Honors Calculus) AND PHYS-SHU 11 General Physics I"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 380",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "8.0 CSCI-UA 380 Topics: Interactive Computing Varies Varies Varies",
+      "columns": {
+        "#": "8.0",
+        "courses": "CSCI-UA 380 Topics: Interactive Computing",
+        "ny cas prerequsites": "Varies",
+        "ad prerequsites": "Varies",
+        "sh prerequsites": "Varies"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 381",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "9.0 CSCI-UA 381 Programming Tools for the Data Scientist DS-UA 111 Data Science for Everyone OR equivalent proficiency in Python AND either CSCI-UA 2 Introduction to Computer Programming (No Prior Experience) OR CSCI-UA 3 Introduction to Computer Programming (Limited Prior Experience) CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science",
+      "columns": {
+        "#": "9.0",
+        "courses": "CSCI-UA 381 Programming Tools for the Data Scientist",
+        "ny cas prerequsites": "DS-UA 111 Data Science for Everyone OR equivalent proficiency in Python AND either CSCI-UA 2 Introduction to Computer Programming (No Prior Experience) OR CSCI-UA 3 Introduction to Computer Programming (Limited Prior Experience)",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+        "sh prerequsites": "CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 421",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "10.0 CSCI-UA 421 Numerical Computing CSCI-UA 201 Computer Systems Organization AND (MATH-UA 121 Calculus I) OR (MATH-UA 211 Mathematics for Economics I AND MATH-UA 212 Mathematics for Economics II) AND MATH-UA 140 Linear Algebra OR permission of instructor. (CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture) AND (MATH-UH 1012Q Calculus with Applications to Science and Engineering OR MATH-UH 1013Q Calculus with Applications to Economics ) AND (MATH-UH 1022 Linear Algebra OR MATH-UH 1023 Fundamentals of Linear Algebra) CENG-SHU 202 Computer Architecture AND (MATH-SHU 131 Calculus OR MATH-SHU 201 Honors Calculus OR MATH-SHU 151 Multivariable Calculus) AND (MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra I OR MATH-SHU 265 Linear Algebra and Differential Equation)",
+      "columns": {
+        "#": "10.0",
+        "courses": "CSCI-UA 421 Numerical Computing",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization AND (MATH-UA 121 Calculus I) OR (MATH-UA 211 Mathematics for Economics I AND MATH-UA 212 Mathematics for Economics II) AND MATH-UA 140 Linear Algebra OR permission of instructor.",
+        "ad prerequsites": "(CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture) AND (MATH-UH 1012Q Calculus with Applications to Science and Engineering OR MATH-UH 1013Q Calculus with Applications to Economics ) AND (MATH-UH 1022 Linear Algebra OR MATH-UH 1023 Fundamentals of Linear Algebra)",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture AND (MATH-SHU 131 Calculus OR MATH-SHU 201 Honors Calculus OR MATH-SHU 151 Multivariable Calculus) AND (MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra I OR MATH-SHU 265 Linear Algebra and Differential Equation)"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 430",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "11.0 CSCI-UA 430 Agile Software Development and DevOps CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "11.0",
+        "courses": "CSCI-UA 430 Agile Software Development and DevOps",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 453",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "12.0 CSCI-UA 453 Theory of Computation CSCI-UA 201 Computer Systems Organization AND CSCI-UA 310 Basic Algorithms (CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture) AND (CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms) CENG-SHU 202 Computer Architecture AND CSCI-SHU 220 Algorithms",
+      "columns": {
+        "#": "12.0",
+        "courses": "CSCI-UA 453 Theory of Computation",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization AND CSCI-UA 310 Basic Algorithms",
+        "ad prerequsites": "(CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture) AND (CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms)",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture AND CSCI-SHU 220 Algorithms"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 467",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "13.0 CSCI-UA 467 Applied Internet Technology CSCI-UA 201 Computer Systems Organization Note: Students who complete CSCI-UA 467 Applied Internet Technology with a C or better are not eligible to take CSCI-UA 61 Web Development and Programming. CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture Note: Students who complete CSCI-UA 467 Applied Internet Technology with a C or better are not eligible to take CSCI-UA 61 Web Development and Programming. CENG-SHU 202 Computer Architecture Note: Students who complete CSCI-UA 467 Applied Internet Technology with a C or better are not eligible to take CSCI-UA 61 Web Development and Programming.",
+      "columns": {
+        "#": "13.0",
+        "courses": "CSCI-UA 467 Applied Internet Technology",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization Note: Students who complete CSCI-UA 467 Applied Internet Technology with a C or better are not eligible to take CSCI-UA 61 Web Development and Programming.",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture Note: Students who complete CSCI-UA 467 Applied Internet Technology with a C or better are not eligible to take CSCI-UA 61 Web Development and Programming.",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture Note: Students who complete CSCI-UA 467 Applied Internet Technology with a C or better are not eligible to take CSCI-UA 61 Web Development and Programming."
+      }
+    },
+    {
+      "course_code": "CSCI-UA 469",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "14.0 CSCI-UA 469 Special Topics: Natural Language Processing CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "14.0",
+        "courses": "CSCI-UA 469 Special Topics: Natural Language Processing",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 470",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "15.0 CSCI-UA 470 Object-Oriented Programming CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "15.0",
+        "courses": "CSCI-UA 470 Object-Oriented Programming",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 472",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "16.0 CSCI-UA 472 Artifical Intelligence CSCI-UA 201 Computer Systems Organization AND CSCI-UA 310 Basic Algorithms CS-UH 2010 Computer Systems Organization AND (CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms) CENG-SHU 202 Computer Architecture AND CSCI-SHU 220 Algorithms",
+      "columns": {
+        "#": "16.0",
+        "courses": "CSCI-UA 472 Artifical Intelligence",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization AND CSCI-UA 310 Basic Algorithms",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization AND (CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms)",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture AND CSCI-SHU 220 Algorithms"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 473",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "17.0 CSCI-UA 473 Machine Learning CSCI-UA 102 Data Structures AND MATH-UA140 Linear Algebra AND one of the following: • MATH-UA 235 Probability and Statistics • MATH-UA 233 Theory of Probability • MATH-UA 234 Mathematical Statistics • MATH-UA 238 Honors Theory of Probability • MA-UY 2224 Data Analysis (CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms) AND (MATH-UH 1022 Linear Algebra OR MATH-UH 1023 Fundamentals of Linear Algebra) AND MATH-UH 2011Q Probability and Statistics Probability and Statistics for Engineers is NOT accepted as a prerequisite. CSCI-SHU 210 Data Structures AND (MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra I) AND (MATH-SHU 235 Probability and Statistics OR MATH-SHU 238 Honors Theory of Probability) Courant Computer Science does NOT accept BUSF-SHU 101 as a substitute prerequisite for Machine Learning. Students can NOT register for the CSCI-UA 473 and its prerequisites in the same semester",
+      "columns": {
+        "#": "17.0",
+        "courses": "CSCI-UA 473 Machine Learning",
+        "ny cas prerequsites": "CSCI-UA 102 Data Structures AND MATH-UA140 Linear Algebra AND one of the following: • MATH-UA 235 Probability and Statistics • MATH-UA 233 Theory of Probability • MATH-UA 234 Mathematical Statistics • MATH-UA 238 Honors Theory of Probability • MA-UY 2224 Data Analysis",
+        "ad prerequsites": "(CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms) AND (MATH-UH 1022 Linear Algebra OR MATH-UH 1023 Fundamentals of Linear Algebra) AND MATH-UH 2011Q Probability and Statistics Probability and Statistics for Engineers is NOT accepted as a prerequisite.",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND (MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra I) AND (MATH-SHU 235 Probability and Statistics OR MATH-SHU 238 Honors Theory of Probability) Courant Computer Science does NOT accept BUSF-SHU 101 as a substitute prerequisite for Machine Learning.",
+        "notes": "Students can NOT register for the CSCI-UA 473 and its prerequisites in the same semester"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 474",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "18.0 CSCI-UA 474 Software Engineering CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "18.0",
+        "courses": "CSCI-UA 474 Software Engineering",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 475",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "19.0 CSCI-UA 475 Predictive Analytics CSCI-UA 201 Computer Systems Organization AND CSCI-UA 310 Basic Algorithms AND (MATH-UA 140 Linear Algebra OR MATH-UA 148 Honors Linear Algebra) (CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture) AND CS-UH 1052 Basic Algorithms AND (MATH-UH 1022 Linear Algebra OR MATH-UH 1023 Fundamentals of Linear Algebra) CENG-SHU 202 Computer Architecture AND CSCI-SHU 220 Algorithms AND MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra",
+      "columns": {
+        "#": "19.0",
+        "courses": "CSCI-UA 475 Predictive Analytics",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization AND CSCI-UA 310 Basic Algorithms AND (MATH-UA 140 Linear Algebra OR MATH-UA 148 Honors Linear Algebra)",
+        "ad prerequsites": "(CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture) AND CS-UH 1052 Basic Algorithms AND (MATH-UH 1022 Linear Algebra OR MATH-UH 1023 Fundamentals of Linear Algebra)",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture AND CSCI-SHU 220 Algorithms AND MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 476",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "20.0 CSCI-UA 476 Processing Big Data for Analytics Applications CSCI-UA 201 Computer Systems Organization AND CSCI-UA 310 Basic Algorithms (CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture) AND CS-UH 1052 Basic Algorithms CENG-SHU 202 Computer Architecture AND CSCI-SHU 220 Algorithms",
+      "columns": {
+        "#": "20.0",
+        "courses": "CSCI-UA 476 Processing Big Data for Analytics Applications",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization AND CSCI-UA 310 Basic Algorithms",
+        "ad prerequsites": "(CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture) AND CS-UH 1052 Basic Algorithms",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture AND CSCI-SHU 220 Algorithms"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 478",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "21.0 CSCI-UA 478 Introduction to Cryptography CSCI-UA 310 Basic Algorithms Basic Algorithms (CS-UH 1052) or Data Structures and Algorithms ( ENGR-UH 3510) CSCI-SHU 220 Algorithms",
+      "columns": {
+        "#": "21.0",
+        "courses": "CSCI-UA 478 Introduction to Cryptography",
+        "ny cas prerequsites": "CSCI-UA 310 Basic Algorithms",
+        "ad prerequsites": "Basic Algorithms (CS-UH 1052) or Data Structures and Algorithms ( ENGR-UH 3510)",
+        "sh prerequsites": "CSCI-SHU 220 Algorithms"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 479",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "22.0 CSCI-UA 479 Data Management and Analysis CSCI-UA 102 Data Structures Data Structures (CS-UH 1050) or Data Structures and Algorithms ( ENGR-UH 3510) CSCI-SHU 210 Data Structures",
+      "columns": {
+        "#": "22.0",
+        "courses": "CSCI-UA 479 Data Management and Analysis",
+        "ny cas prerequsites": "CSCI-UA 102 Data Structures",
+        "ad prerequsites": "Data Structures (CS-UH 1050) or Data Structures and Algorithms ( ENGR-UH 3510)",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 480",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "23.0 CSCI-UA 480 Special Topics: Agile Software Development CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "23.0",
+        "courses": "CSCI-UA 480 Special Topics: Agile Software Development",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 480",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "24.0 CSCI-UA 480 Special Topics: Algorithmic Problem Solving CSCI-UA 201 Computer Systems Organization AND CSCI-UA 310 Basic Algorithms Computer Systems Organization (CS-UH 2010) or Computer Organization and Architecture (ENGR-UH 3511) and Basic Algorithms (CS-UH 1052) or Data Structures and Algorithms ( ENGR-UH 3510) CENG-SHU 202 Computer Architecture AND CSCI-SHU 220 Algorithms",
+      "columns": {
+        "#": "24.0",
+        "courses": "CSCI-UA 480 Special Topics: Algorithmic Problem Solving",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization AND CSCI-UA 310 Basic Algorithms",
+        "ad prerequsites": "Computer Systems Organization (CS-UH 2010) or Computer Organization and Architecture (ENGR-UH 3511) and Basic Algorithms (CS-UH 1052) or Data Structures and Algorithms ( ENGR-UH 3510)",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture AND CSCI-SHU 220 Algorithms"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 480",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "25.0 CSCI-UA 480 Special Topics: Collaborating Remotely: Build Software from Anywhere CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "25.0",
+        "courses": "CSCI-UA 480 Special Topics: Collaborating Remotely: Build Software from Anywhere",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 480",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "26.0 CSCI-UA 480 Special Topics: Computer Graphics CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "26.0",
+        "courses": "CSCI-UA 480 Special Topics: Computer Graphics",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 480",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "27.0 CSCI-UA 480 Special Topics: Computer Networks CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "27.0",
+        "courses": "CSCI-UA 480 Special Topics: Computer Networks",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 480",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "28.0 CSCI-UA 480 Special Topics: Computer Vision CSCI-UA 201 Computer Systems Organization AND CSCI-UA 140 Linear Algebra CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture AND MATH-UH 1022 Linear Algebra CENG-SHU 202 Computer Architecture AND MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra",
+      "columns": {
+        "#": "28.0",
+        "courses": "CSCI-UA 480 Special Topics: Computer Vision",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization AND CSCI-UA 140 Linear Algebra",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture AND MATH-UH 1022 Linear Algebra",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture AND MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 480",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "29.0 CSCI-UA 480 Special Topics: Parallel Computing CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "29.0",
+        "courses": "CSCI-UA 480 Special Topics: Parallel Computing",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 480",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "30.0 CSCI-UA 480 Special Topics: Social Networking CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "30.0",
+        "courses": "CSCI-UA 480 Special Topics: Social Networking",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 480",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "31.0 CSCI-UA 480 Special Topics: Introduction to Robot Intelligence CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "31.0",
+        "courses": "CSCI-UA 480 Special Topics: Introduction to Robot Intelligence",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 480",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "32.0 CSCI-UA 480 Special Topics: Open Source Software Development CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "32.0",
+        "courses": "CSCI-UA 480 Special Topics: Open Source Software Development",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 480",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "33.0 CSCI-UA 480 Special Topics: Introduction to Deep Learning CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "33.0",
+        "courses": "CSCI-UA 480 Special Topics: Introduction to Deep Learning",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 480",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "34.0 CSCI-UA 480 Special Topics: Introduction to Computer Security CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "34.0",
+        "courses": "CSCI-UA 480 Special Topics: Introduction to Computer Security",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 490",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "35.0 CSCI-UA 490 Special Topics in Programming Language Depends on the topic Depends on the topic Depends on the topic",
+      "columns": {
+        "#": "35.0",
+        "courses": "CSCI-UA 490 Special Topics in Programming Language",
+        "ny cas prerequsites": "Depends on the topic",
+        "ad prerequsites": "Depends on the topic",
+        "sh prerequsites": "Depends on the topic"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 60",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "36.0 CSCI-UA 60 Database Design and Implementation CSCI-UA 2 Introduction to Computer Programming (No Prior Experience) OR CSCI-UA 3 Introduction to Computer Programming (Limited Prior Experience) Note: Students that have successfully completed CSCI-UA 479 Data Management and Analysis are NOT eligible to take this course. CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers Note: Students that have successfully completed CSCI-UA 479 Data Management and Analysis are NOT eligible to take this course. CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science Note: Students that have successfully completed CSCI-UA 479 Data Management and Analysis are NOT eligible to take this course.",
+      "columns": {
+        "#": "36.0",
+        "courses": "CSCI-UA 60 Database Design and Implementation",
+        "ny cas prerequsites": "CSCI-UA 2 Introduction to Computer Programming (No Prior Experience) OR CSCI-UA 3 Introduction to Computer Programming (Limited Prior Experience) Note: Students that have successfully completed CSCI-UA 479 Data Management and Analysis are NOT eligible to take this course.",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers Note: Students that have successfully completed CSCI-UA 479 Data Management and Analysis are NOT eligible to take this course.",
+        "sh prerequsites": "CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science Note: Students that have successfully completed CSCI-UA 479 Data Management and Analysis are NOT eligible to take this course."
+      }
+    },
+    {
+      "course_code": "CSCI-UA 61",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "37.0 CSCI-UA 61 Web Development and Programming CSCI-UA 2 Introduction to Computer Programming (No Prior Experience) OR CSCI-UA 3 Introduction to Computer Programming (Limited Prior Experience) AND CSCI-UA 4 Introduction to Web Design and Computer Principles Note: Students that have successfully completed Applied Internet Technology (CSCI-UA 467) are NOT eligible to take this course. CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND IM-UH 1011 Communications Lab Note: Students that have successfully completed CSCI-UA 479 Data Management and Analysis are NOT eligible to take this course. Students must take a placement exam. CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND INTM-SHU 120 Communications Lab Note: Students that have successfully completed CSCI-UA 479 Data Management and Analysis are NOT eligible to take this course. Students must take a placement exam.",
+      "columns": {
+        "#": "37.0",
+        "courses": "CSCI-UA 61 Web Development and Programming",
+        "ny cas prerequsites": "CSCI-UA 2 Introduction to Computer Programming (No Prior Experience) OR CSCI-UA 3 Introduction to Computer Programming (Limited Prior Experience) AND CSCI-UA 4 Introduction to Web Design and Computer Principles Note: Students that have successfully completed Applied Internet Technology (CSCI-UA 467) are NOT eligible to take this course.",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND IM-UH 1011 Communications Lab Note: Students that have successfully completed CSCI-UA 479 Data Management and Analysis are NOT eligible to take this course. Students must take a placement exam.",
+        "sh prerequsites": "CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND INTM-SHU 120 Communications Lab Note: Students that have successfully completed CSCI-UA 479 Data Management and Analysis are NOT eligible to take this course. Students must take a placement exam."
+      }
+    },
+    {
+      "course_code": "CSCI-UA 9467",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "38.0 CSCI-UA 9467 Applied Internet Technology (NOTE: Taught remotely from NYU Paris) CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "38.0",
+        "courses": "CSCI-UA 9467 Applied Internet Technology (NOTE: Taught remotely from NYU Paris)",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 9473",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "39.0 CSCI-UA 9473 Introduction to Machine Learning (NOTE: Taught remotely from NYU Paris) MATH-UA 121 Calculus I AND MATH-UA 140 Linear Algebra AND MATH-UA 235 Probability and Statistics AND CSCI-UA 102 Data Structures One of the following: • MATH-UH 1013Q Calculus with Applications to Economics • MATH-UH 1012Q Calculus with Applications to Science and Engineering • MATH-UH 1022 Linear Algebra • MATH-UH 1023 Fundamentals of Linear Algebra • MATH-UH 2011Q Probability and Statistics • ENGR-UH 2010Q Probability and Statistics for Engineers AND CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms One of the following: • MATH-SHU 131 Calculus • MATH-SHU 201 Honors Calculus • MATH-SHU 140 Linear Algebra • MATH-SHU 141 Honors Linear Algebra I • Math-SHU 235 Probability and Statistics AND CSCI-SHU 210 Data Structures",
+      "columns": {
+        "#": "39.0",
+        "courses": "CSCI-UA 9473 Introduction to Machine Learning (NOTE: Taught remotely from NYU Paris)",
+        "ny cas prerequsites": "MATH-UA 121 Calculus I AND MATH-UA 140 Linear Algebra AND MATH-UA 235 Probability and Statistics AND CSCI-UA 102 Data Structures",
+        "ad prerequsites": "One of the following: • MATH-UH 1013Q Calculus with Applications to Economics • MATH-UH 1012Q Calculus with Applications to Science and Engineering • MATH-UH 1022 Linear Algebra • MATH-UH 1023 Fundamentals of Linear Algebra • MATH-UH 2011Q Probability and Statistics • ENGR-UH 2010Q Probability and Statistics for Engineers AND CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms",
+        "sh prerequsites": "One of the following: • MATH-SHU 131 Calculus • MATH-SHU 201 Honors Calculus • MATH-SHU 140 Linear Algebra • MATH-SHU 141 Honors Linear Algebra I • Math-SHU 235 Probability and Statistics AND CSCI-SHU 210 Data Structures"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 9479",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "40.0 CSCI-UA 9479 Data Management and Analysis (NOTE: Taught remotely from NYU Paris) CSCI-UA 102 Data Structures CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms CSCI-SHU 210 Data Structures",
+      "columns": {
+        "#": "40.0",
+        "courses": "CSCI-UA 9479 Data Management and Analysis (NOTE: Taught remotely from NYU Paris)",
+        "ny cas prerequsites": "CSCI-UA 102 Data Structures",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures"
+      }
+    },
+    {
+      "course_code": "CS-UY 4793",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "41.0 CS-UY 4793 Computer Networking (NOTE: Taught remotely from NYU Paris) CSCI-UA 102 Data Structures CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms CSCI-SHU 210 Data Structures",
+      "columns": {
+        "#": "41.0",
+        "courses": "CS-UY 4793 Computer Networking (NOTE: Taught remotely from NYU Paris)",
+        "ny cas prerequsites": "CSCI-UA 102 Data Structures",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures"
+      }
+    },
+    {
+      "course_code": "CS-UY 1134",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "42.0 CS-UY 1134 Data Structures and Algorithms CS-UY 1114 Introduction to Programming and Problem Solving OR CS-UY 1123 Problem Solving and Programming II CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science",
+      "columns": {
+        "#": "42.0",
+        "courses": "CS-UY 1134 Data Structures and Algorithms",
+        "ny cas prerequsites": "CS-UY 1114 Introduction to Programming and Problem Solving OR CS-UY 1123 Problem Solving and Programming II",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+        "sh prerequsites": "CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CS-UY 2124",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "43.0 CS-UY 2124 Object Oriented Programming CS-UY 1134 Data Structures and Algorithms AND MATH-UA 120 Discrete Math OR MA-UY 2314 Discrete Math. Must also register for EX-UY 1 CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math Must also register for EX-UY 1 CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math Must also register for EX-UY 1.",
+      "columns": {
+        "#": "43.0",
+        "courses": "CS-UY 2124 Object Oriented Programming",
+        "ny cas prerequsites": "CS-UY 1134 Data Structures and Algorithms AND MATH-UA 120 Discrete Math OR MA-UY 2314 Discrete Math. Must also register for EX-UY 1",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math Must also register for EX-UY 1",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math Must also register for EX-UY 1."
+      }
+    },
+    {
+      "course_code": "CS-UY 2204",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "44.0 CS-UY 2204 Digital Logic and State Machine Design CS-UY 1114 Introduction to Programming and Problem Solving OR CS-UY 1133 Engineering Problem Solving and Programming CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science",
+      "columns": {
+        "#": "44.0",
+        "courses": "CS-UY 2204 Digital Logic and State Machine Design",
+        "ny cas prerequsites": "CS-UY 1114 Introduction to Programming and Problem Solving OR CS-UY 1133 Engineering Problem Solving and Programming",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+        "sh prerequsites": "CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CS-UY 2214",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "45.0 CS-UY 2214 Computer Architecture and Organization CS-UY 2204 Digital Logic and State Machine Design AND CS-UY 1134 Data Structures and Algorithms AND MATH-UA 120 Discrete Math OR MA-UY 2314 Discrete Math. CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math",
+      "columns": {
+        "#": "45.0",
+        "courses": "CS-UY 2214 Computer Architecture and Organization",
+        "ny cas prerequsites": "CS-UY 2204 Digital Logic and State Machine Design AND CS-UY 1134 Data Structures and Algorithms AND MATH-UA 120 Discrete Math OR MA-UY 2314 Discrete Math.",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math"
+      }
+    },
+    {
+      "course_code": "CS-UY 2413",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "46.0 CS-UY 2413 Design & Analysis of Algorithms CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND MATH-UA 120 Discrete Math OR MA-UY 2314 Discrete Math. CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math Update: CS-UY 2413 will not open to non-Tandon students until after January 3 pending available space",
+      "columns": {
+        "#": "46.0",
+        "courses": "CS-UY 2413 Design & Analysis of Algorithms",
+        "ny cas prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND MATH-UA 120 Discrete Math OR MA-UY 2314 Discrete Math.",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math",
+        "notes": "Update: CS-UY 2413 will not open to non-Tandon students until after January 3 pending available space"
+      }
+    },
+    {
+      "course_code": "CS-UY 3083",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "47.0 CS-UY 3083 Introduction to Databases CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND MA-UY 2314 Discrete Math OR MATH-UA 120 Discrete Mathematics CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math",
+      "columns": {
+        "#": "47.0",
+        "courses": "CS-UY 3083 Introduction to Databases",
+        "ny cas prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND MA-UY 2314 Discrete Math OR MATH-UA 120 Discrete Mathematics",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math"
+      }
+    },
+    {
+      "course_code": "CS-UY 3224",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "48.0 CS-UY 3224 Operating Systems CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND CS-UY 2214 Computer Architecture and Organization CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture AND CS-UH 1001 ntroduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers CSCI-SHU 210 Data Structures AND CENG-SHU 202 Computer Architecture AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science",
+      "columns": {
+        "#": "48.0",
+        "courses": "CS-UY 3224 Operating Systems",
+        "ny cas prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND CS-UY 2214 Computer Architecture and Organization",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture AND CS-UH 1001 ntroduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CENG-SHU 202 Computer Architecture AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CS-UY 3254",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "49.0 CS-UY 3254 Introduction to Parallel and Distributed Systems CS-UY 1134 Data Structures and Algorithms AND CS-UY 3224 Operating Systems CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 3010 Operating Systems OR ENGR-UH 3520 Operating Systems CSCI-SHU 210 Data Structures AND CSCI-SHU 215 Operating Systems",
+      "columns": {
+        "#": "49.0",
+        "courses": "CS-UY 3254 Introduction to Parallel and Distributed Systems",
+        "ny cas prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 3224 Operating Systems",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 3010 Operating Systems OR ENGR-UH 3520 Operating Systems",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 215 Operating Systems"
+      }
+    },
+    {
+      "course_code": "CS-UY 3314",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "50.0 CS-UY 3314 Design and Implementation of Programming Languages CS-UY 1134 Data Structures and Algorithms CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms CSCI-SHU 210 Data Structures",
+      "columns": {
+        "#": "50.0",
+        "courses": "CS-UY 3314 Design and Implementation of Programming Languages",
+        "ny cas prerequsites": "CS-UY 1134 Data Structures and Algorithms",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures"
+      }
+    },
+    {
+      "course_code": "CS-UY 3393",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "51.0 CS-UY 3393 UNIX System Programming CS-UY 3224 Operating Systems CS-UH 3010 Operating Systems OR ENGR-UH 3520 Operating Systems CSCI-SHU 215 Operating Systems",
+      "columns": {
+        "#": "51.0",
+        "courses": "CS-UY 3393 UNIX System Programming",
+        "ny cas prerequsites": "CS-UY 3224 Operating Systems",
+        "ad prerequsites": "CS-UH 3010 Operating Systems OR ENGR-UH 3520 Operating Systems",
+        "sh prerequsites": "CSCI-SHU 215 Operating Systems"
+      }
+    },
+    {
+      "course_code": "CS-UY 3913",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "52.0 CS-UY 3913 Java and Web Design CS-UY 1134 Data Structures and Algorithms CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms CSCI-SHU 210 Data Structures",
+      "columns": {
+        "#": "52.0",
+        "courses": "CS-UY 3913 Java and Web Design",
+        "ny cas prerequsites": "CS-UY 1134 Data Structures and Algorithms",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures"
+      }
+    },
+    {
+      "course_code": "CS-UY 3923",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "53.0 CS-UY 3923 Computer Security CS-UY 2214 Computer Architecture and Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "53.0",
+        "courses": "CS-UY 3923 Computer Security",
+        "ny cas prerequsites": "CS-UY 2214 Computer Architecture and Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CS-UY 3933",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "54.0 CS-UY 3933 Network Security CS-UY 4793 Computer Networking OR ECE-UY 3613 Communication Networks CS-UH 3012 Computer Networks OR ENGR-UH 3512 Computer Networks CSCI-SHU 308 Computer Networking",
+      "columns": {
+        "#": "54.0",
+        "courses": "CS-UY 3933 Network Security",
+        "ny cas prerequsites": "CS-UY 4793 Computer Networking OR ECE-UY 3613 Communication Networks",
+        "ad prerequsites": "CS-UH 3012 Computer Networks OR ENGR-UH 3512 Computer Networks",
+        "sh prerequsites": "CSCI-SHU 308 Computer Networking"
+      }
+    },
+    {
+      "course_code": "CS-UY 3943",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "55.0 CS-UY 3943 Special Topic Intro to Blockchain & Distributed Ledger Tech(DLT) CS-UY 1134 Data structures and Algorithms AND CS-UY 2413 Design and Analysis of Algorithms AND MA-UY 2314 Discrete Mathematics OR MATH-UA 120 Discrete Mathematics. CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math AND CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math AND CSCI-SHU 220 Algorithms",
+      "columns": {
+        "#": "55.0",
+        "courses": "CS-UY 3943 Special Topic Intro to Blockchain & Distributed Ledger Tech(DLT)",
+        "ny cas prerequsites": "CS-UY 1134 Data structures and Algorithms AND CS-UY 2413 Design and Analysis of Algorithms AND MA-UY 2314 Discrete Mathematics OR MATH-UA 120 Discrete Mathematics.",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math AND CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math AND CSCI-SHU 220 Algorithms"
+      }
+    },
+    {
+      "course_code": "CS-UY 4543",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "56.0 CS-UY 4543 Human Computer Interaction N/A",
+      "columns": {
+        "#": "56.0",
+        "courses": "CS-UY 4543 Human Computer Interaction",
+        "ny cas prerequsites": "N/A"
+      }
+    },
+    {
+      "course_code": "CS-UY 4553",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "57.0 CS-UY 4553 Interactive Computer Graphics / Game Design CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND one of the following: • MA-UY 2034 Linear Algebra and Differential Equations • MA-UY 3054 Honors Linear Algebra CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND MATH-UH 1022 Linear Algebra OR MATH-UH 1023 Fundamentals of Linear Algebra CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND one of the following: • MATH-SHU 140 Linear Algebra • MATH-SHU 141 Honors Linear Algebra I • MATH-SHU 265 Linear Algebra and Differential Equation",
+      "columns": {
+        "#": "57.0",
+        "courses": "CS-UY 4553 Interactive Computer Graphics / Game Design",
+        "ny cas prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND one of the following: • MA-UY 2034 Linear Algebra and Differential Equations • MA-UY 3054 Honors Linear Algebra",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND MATH-UH 1022 Linear Algebra OR MATH-UH 1023 Fundamentals of Linear Algebra",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND one of the following: • MATH-SHU 140 Linear Algebra • MATH-SHU 141 Honors Linear Algebra I • MATH-SHU 265 Linear Algebra and Differential Equation"
+      }
+    },
+    {
+      "course_code": "CS-UY 4563",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "58.0 CS-UY 4563 Introduction to Machine Learning CS-UY 1134 Data Structures and Algorithms AND One of the following: • MA-UY 2034 Linear Algebra and Differential Equations • MA-UY 1044 Linear Algebra • MA-UY 3054 Honors Linear Algebra AND One of the following: • MA-UY 2224 Probability and Statistics for Engineers • MA-UY 2233 Introduction to Probability • ECE-UY 2233 Introduction to Probability • MA-UY 3014 Applied Probability • MA-UY 3514 Honors Probability CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms (C- or better) AND MATH-UH 1022Q Linear Algebra OR MATH-UH 1023Q Fundamentals of Linear Algebra AND MATH-UH 2011Q Probability and Statistics OR ENGR-UH 2010Q Probability and Statistics for Engineers CSCI-SHU 210 Data Structures (C- or better) AND MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra AND MATH-SHU 235 Probability and Statistics OR MATH-SHU 238 Honors Theory of Probability",
+      "columns": {
+        "#": "58.0",
+        "courses": "CS-UY 4563 Introduction to Machine Learning",
+        "ny cas prerequsites": "CS-UY 1134 Data Structures and Algorithms AND One of the following: • MA-UY 2034 Linear Algebra and Differential Equations • MA-UY 1044 Linear Algebra • MA-UY 3054 Honors Linear Algebra AND One of the following: • MA-UY 2224 Probability and Statistics for Engineers • MA-UY 2233 Introduction to Probability • ECE-UY 2233 Introduction to Probability • MA-UY 3014 Applied Probability • MA-UY 3514 Honors Probability",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms (C- or better) AND MATH-UH 1022Q Linear Algebra OR MATH-UH 1023Q Fundamentals of Linear Algebra AND MATH-UH 2011Q Probability and Statistics OR ENGR-UH 2010Q Probability and Statistics for Engineers",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures (C- or better) AND MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra AND MATH-SHU 235 Probability and Statistics OR MATH-SHU 238 Honors Theory of Probability"
+      }
+    },
+    {
+      "course_code": "CS-UY 4613",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "59.0 CS-UY 4613 Artificial Intelligence CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science",
+      "columns": {
+        "#": "59.0",
+        "courses": "CS-UY 4613 Artificial Intelligence",
+        "ny cas prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CS-UY 4753",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "60.0 CS-UY 4753 Application Security CS-UY 3923 Computer Security CS-UH 3210 Computer Security CENG-SHU 304 Computer Security",
+      "columns": {
+        "#": "60.0",
+        "courses": "CS-UY 4753 Application Security",
+        "ny cas prerequsites": "CS-UY 3923 Computer Security",
+        "ad prerequsites": "CS-UH 3210 Computer Security",
+        "sh prerequsites": "CENG-SHU 304 Computer Security"
+      }
+    },
+    {
+      "course_code": "CS-UY 4773",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "61.0 CS-UY 4773 Penetration Testing and Vulnerability Analysis CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math",
+      "columns": {
+        "#": "61.0",
+        "courses": "CS-UY 4773 Penetration Testing and Vulnerability Analysis",
+        "ny cas prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math"
+      }
+    },
+    {
+      "course_code": "CS-UY 4783",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "62.0 CS-UY 4783 Applied Cryptography CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND MA-UY 2314 Discrete Mathematics OR MATH-UA 120 Discrete Mathematics CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math AND CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science",
+      "columns": {
+        "#": "62.0",
+        "courses": "CS-UY 4783 Applied Cryptography",
+        "ny cas prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND MA-UY 2314 Discrete Mathematics OR MATH-UA 120 Discrete Mathematics",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math AND CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CS-UY 4793",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "63.0 CS-UY 4793 Computer Networking CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science",
+      "columns": {
+        "#": "63.0",
+        "courses": "CS-UY 4793 Computer Networking",
+        "ny cas prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CSCI-UA 0469",
+      "source_sheet": "Updating CASCourant",
+      "source_scope": "ny_cas_courant",
+      "course_text": "64.0 CSCI-UA 0469 Natural Language Processing CSCI-UA 201 Computer Systems Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "64.0",
+        "courses": "CSCI-UA 0469 Natural Language Processing",
+        "ny cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CS-UY 4793",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "1.0 CS-UY 4793 Computer Networking (NOTE: Taught remotely from NYU Paris) CSCI-UA 102 Data Structures CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms CSCI-SHU 210 Data Structures",
+      "columns": {
+        "#": "1.0",
+        "tandon course": "CS-UY 4793 Computer Networking (NOTE: Taught remotely from NYU Paris)",
+        "ny tandon prerequsites": "CSCI-UA 102 Data Structures",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures"
+      }
+    },
+    {
+      "course_code": "CS-UY 1134",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "2.0 CS-UY 1134 Data Structures and Algorithms CS-UY 1114 Introduction to Programming and Problem Solving OR CS-UY 1123 Problem Solving and Programming II CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science",
+      "columns": {
+        "#": "2.0",
+        "tandon course": "CS-UY 1134 Data Structures and Algorithms",
+        "ny tandon prerequsites": "CS-UY 1114 Introduction to Programming and Problem Solving OR CS-UY 1123 Problem Solving and Programming II",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+        "sh prerequsites": "CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CS-UY 2124",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "3.0 CS-UY 2124 Object Oriented Programming CS-UY 1134 Data Structures and Algorithms AND MATH-UA 120 Discrete Math OR MA-UY 2314 Discrete Math. Must also register for EX-UY 1 CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math Must also register for EX-UY 1 CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math Must also register for EX-UY 1.",
+      "columns": {
+        "#": "3.0",
+        "tandon course": "CS-UY 2124 Object Oriented Programming",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms AND MATH-UA 120 Discrete Math OR MA-UY 2314 Discrete Math. Must also register for EX-UY 1",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math Must also register for EX-UY 1",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math Must also register for EX-UY 1."
+      }
+    },
+    {
+      "course_code": "CS-UY 2204",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "4.0 CS-UY 2204 Digital Logic and State Machine Design CS-UY 1114 Introduction to Programming and Problem Solving OR CS-UY 1133 Engineering Problem Solving and Programming CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science",
+      "columns": {
+        "#": "4.0",
+        "tandon course": "CS-UY 2204 Digital Logic and State Machine Design",
+        "ny tandon prerequsites": "CS-UY 1114 Introduction to Programming and Problem Solving OR CS-UY 1133 Engineering Problem Solving and Programming",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+        "sh prerequsites": "CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CS-UY 2214",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "5.0 CS-UY 2214 Computer Architecture and Organization CS-UY 2204 Digital Logic and State Machine Design AND CS-UY 1134 Data Structures and Algorithms AND MATH-UA 120 Discrete Math OR MA-UY 2314 Discrete Math. CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math",
+      "columns": {
+        "#": "5.0",
+        "tandon course": "CS-UY 2214 Computer Architecture and Organization",
+        "ny tandon prerequsites": "CS-UY 2204 Digital Logic and State Machine Design AND CS-UY 1134 Data Structures and Algorithms AND MATH-UA 120 Discrete Math OR MA-UY 2314 Discrete Math.",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math"
+      }
+    },
+    {
+      "course_code": "CS-UY 2413",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "6.0 CS-UY 2413 Design & Analysis of Algorithms CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND MATH-UA 120 Discrete Math OR MA-UY 2314 Discrete Math. CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math Update: CS-UY 2413 will not open to non-Tandon students until after January 3 pending available space",
+      "columns": {
+        "#": "6.0",
+        "tandon course": "CS-UY 2413 Design & Analysis of Algorithms",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND MATH-UA 120 Discrete Math OR MA-UY 2314 Discrete Math.",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math",
+        "notes": "Update: CS-UY 2413 will not open to non-Tandon students until after January 3 pending available space"
+      }
+    },
+    {
+      "course_code": "CS-UY 3083",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "7.0 CS-UY 3083 Introduction to Databases CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND MA-UY 2314 Discrete Math OR MATH-UA 120 Discrete Mathematics CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math",
+      "columns": {
+        "#": "7.0",
+        "tandon course": "CS-UY 3083 Introduction to Databases",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND MA-UY 2314 Discrete Math OR MATH-UA 120 Discrete Mathematics",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math"
+      }
+    },
+    {
+      "course_code": "CS-UY 3224",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "8.0 CS-UY 3224 Operating Systems CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND CS-UY 2214 Computer Architecture and Organization CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture AND CS-UH 1001 ntroduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers CSCI-SHU 210 Data Structures AND CENG-SHU 202 Computer Architecture AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science",
+      "columns": {
+        "#": "8.0",
+        "tandon course": "CS-UY 3224 Operating Systems",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND CS-UY 2214 Computer Architecture and Organization",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture AND CS-UH 1001 ntroduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CENG-SHU 202 Computer Architecture AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CS-UY 3254",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "9.0 CS-UY 3254 Introduction to Parallel and Distributed Systems CS-UY 1134 Data Structures and Algorithms AND CS-UY 3224 Operating Systems CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 3010 Operating Systems OR ENGR-UH 3520 Operating Systems CSCI-SHU 210 Data Structures AND CSCI-SHU 215 Operating Systems",
+      "columns": {
+        "#": "9.0",
+        "tandon course": "CS-UY 3254 Introduction to Parallel and Distributed Systems",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 3224 Operating Systems",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 3010 Operating Systems OR ENGR-UH 3520 Operating Systems",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 215 Operating Systems"
+      }
+    },
+    {
+      "course_code": "CS-UY 3314",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "10.0 CS-UY 3314 Design and Implementation of Programming Languages CS-UY 1134 Data Structures and Algorithms CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms CSCI-SHU 210 Data Structures",
+      "columns": {
+        "#": "10.0",
+        "tandon course": "CS-UY 3314 Design and Implementation of Programming Languages",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures"
+      }
+    },
+    {
+      "course_code": "CS-UY 3393",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "11.0 CS-UY 3393 UNIX System Programming CS-UY 3224 Operating Systems CS-UH 3010 Operating Systems OR ENGR-UH 3520 Operating Systems CSCI-SHU 215 Operating Systems",
+      "columns": {
+        "#": "11.0",
+        "tandon course": "CS-UY 3393 UNIX System Programming",
+        "ny tandon prerequsites": "CS-UY 3224 Operating Systems",
+        "ad prerequsites": "CS-UH 3010 Operating Systems OR ENGR-UH 3520 Operating Systems",
+        "sh prerequsites": "CSCI-SHU 215 Operating Systems"
+      }
+    },
+    {
+      "course_code": "CS-UY 3913",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "12.0 CS-UY 3913 Java and Web Design CS-UY 1134 Data Structures and Algorithms CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms CSCI-SHU 210 Data Structures",
+      "columns": {
+        "#": "12.0",
+        "tandon course": "CS-UY 3913 Java and Web Design",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures"
+      }
+    },
+    {
+      "course_code": "CS-UY 3923",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "13.0 CS-UY 3923 Computer Security CS-UY 2214 Computer Architecture and Organization CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "13.0",
+        "tandon course": "CS-UY 3923 Computer Security",
+        "ny tandon prerequsites": "CS-UY 2214 Computer Architecture and Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization OR ENGR-UH 3511 Computer Organization and Architecture",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CS-UY 3933",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "14.0 CS-UY 3933 Network Security CS-UY 4793 Computer Networking OR ECE-UY 3613 Communication Networks CS-UH 3012 Computer Networks OR ENGR-UH 3512 Computer Networks CSCI-SHU 308 Computer Networking",
+      "columns": {
+        "#": "14.0",
+        "tandon course": "CS-UY 3933 Network Security",
+        "ny tandon prerequsites": "CS-UY 4793 Computer Networking OR ECE-UY 3613 Communication Networks",
+        "ad prerequsites": "CS-UH 3012 Computer Networks OR ENGR-UH 3512 Computer Networks",
+        "sh prerequsites": "CSCI-SHU 308 Computer Networking"
+      }
+    },
+    {
+      "course_code": "CS-UY 3943",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "15.0 CS-UY 3943 Special Topic Intro to Blockchain & Distributed Ledger Tech(DLT) CS-UY 1134 Data structures and Algorithms AND CS-UY 2413 Design and Analysis of Algorithms AND MA-UY 2314 Discrete Mathematics OR MATH-UA 120 Discrete Mathematics. CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math AND CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math AND CSCI-SHU 220 Algorithms",
+      "columns": {
+        "#": "15.0",
+        "tandon course": "CS-UY 3943 Special Topic Intro to Blockchain & Distributed Ledger Tech(DLT)",
+        "ny tandon prerequsites": "CS-UY 1134 Data structures and Algorithms AND CS-UY 2413 Design and Analysis of Algorithms AND MA-UY 2314 Discrete Mathematics OR MATH-UA 120 Discrete Mathematics.",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math AND CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math AND CSCI-SHU 220 Algorithms"
+      }
+    },
+    {
+      "course_code": "CS-UY 4513",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "16.0 CS-UY 4513 Software Engineering From Albert: Juniors or higher majoring in Computer Science, Computer Engineering or Electrical and Computer Engineering. Co-requisite: CS-UY 3224 Intro to Operating System CS-UY 4513 Software Engineering is ONLY open to Tandon Computer Science majors. CS-UY 4513 Software Engineering is ONLY open to Tandon Computer Science majors.",
+      "columns": {
+        "#": "16.0",
+        "tandon course": "CS-UY 4513 Software Engineering",
+        "ny tandon prerequsites": "From Albert: Juniors or higher majoring in Computer Science, Computer Engineering or Electrical and Computer Engineering. Co-requisite: CS-UY 3224 Intro to Operating System",
+        "ad prerequsites": "CS-UY 4513 Software Engineering is ONLY open to Tandon Computer Science majors.",
+        "sh prerequsites": "CS-UY 4513 Software Engineering is ONLY open to Tandon Computer Science majors."
+      }
+    },
+    {
+      "course_code": "CS-UY 4543",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "17.0 CS-UY 4543 Human Computer Interaction N/A",
+      "columns": {
+        "#": "17.0",
+        "tandon course": "CS-UY 4543 Human Computer Interaction",
+        "ny tandon prerequsites": "N/A"
+      }
+    },
+    {
+      "course_code": "CS-UY 4553",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "18.0 CS-UY 4553 Interactive Computer Graphics CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND one of the following: • MA-UY 2034 Linear Algebra and Differential Equations • MA-UY 3054 Honors Linear Algebra CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND MATH-UH 1022 Linear Algebra OR MATH-UH 1023 Fundamentals of Linear Algebra CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND one of the following: • MATH-SHU 140 Linear Algebra • MATH-SHU 141 Honors Linear Algebra I • MATH-SHU 265 Linear Algebra and Differential Equation",
+      "columns": {
+        "#": "18.0",
+        "tandon course": "CS-UY 4553 Interactive Computer Graphics",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND one of the following: • MA-UY 2034 Linear Algebra and Differential Equations • MA-UY 3054 Honors Linear Algebra",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND MATH-UH 1022 Linear Algebra OR MATH-UH 1023 Fundamentals of Linear Algebra",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND one of the following: • MATH-SHU 140 Linear Algebra • MATH-SHU 141 Honors Linear Algebra I • MATH-SHU 265 Linear Algebra and Differential Equation"
+      }
+    },
+    {
+      "course_code": "CS-UY 4563",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "19.0 CS-UY 4563 Introduction to Machine Learning CS-UY 1134 Data Structures and Algorithms AND One of the following: • MA-UY 2034 Linear Algebra and Differential Equations • MA-UY 1044 Linear Algebra • MA-UY 3054 Honors Linear Algebra AND One of the following: • MA-UY 2224 Probability and Statistics for Engineers • MA-UY 2233 Introduction to Probability • ECE-UY 2233 Introduction to Probability • MA-UY 3014 Applied Probability • MA-UY 3514 Honors Probability CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms (C- or better) AND MATH-UH 1022Q Linear Algebra OR MATH-UH 1023Q Fundamentals of Linear Algebra AND MATH-UH 2011Q Probability and Statistics OR ENGR-UH 2010Q Probability and Statistics for Engineers CSCI-SHU 210 Data Structures (C- or better) AND MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra AND MATH-SHU 235 Probability and Statistics OR MATH-SHU 238 Honors Theory of Probability",
+      "columns": {
+        "#": "19.0",
+        "tandon course": "CS-UY 4563 Introduction to Machine Learning",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms AND One of the following: • MA-UY 2034 Linear Algebra and Differential Equations • MA-UY 1044 Linear Algebra • MA-UY 3054 Honors Linear Algebra AND One of the following: • MA-UY 2224 Probability and Statistics for Engineers • MA-UY 2233 Introduction to Probability • ECE-UY 2233 Introduction to Probability • MA-UY 3014 Applied Probability • MA-UY 3514 Honors Probability",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms (C- or better) AND MATH-UH 1022Q Linear Algebra OR MATH-UH 1023Q Fundamentals of Linear Algebra AND MATH-UH 2011Q Probability and Statistics OR ENGR-UH 2010Q Probability and Statistics for Engineers",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures (C- or better) AND MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra AND MATH-SHU 235 Probability and Statistics OR MATH-SHU 238 Honors Theory of Probability"
+      }
+    },
+    {
+      "course_code": "CS-UY 4613",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "20.0 CS-UY 4613 Artificial Intelligence CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science",
+      "columns": {
+        "#": "20.0",
+        "tandon course": "CS-UY 4613 Artificial Intelligence",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CS-UY 4753",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "21.0 CS-UY 4753 Application Security CS-UY 3923 Computer Security CS-UH 3210 Computer Security CENG-SHU 304 Computer Security",
+      "columns": {
+        "#": "21.0",
+        "tandon course": "CS-UY 4753 Application Security",
+        "ny tandon prerequsites": "CS-UY 3923 Computer Security",
+        "ad prerequsites": "CS-UH 3210 Computer Security",
+        "sh prerequsites": "CENG-SHU 304 Computer Security"
+      }
+    },
+    {
+      "course_code": "CS-UY 4773",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "22.0 CS-UY 4773 Penetration Testing and Vulnerability Analysis CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math",
+      "columns": {
+        "#": "22.0",
+        "tandon course": "CS-UY 4773 Penetration Testing and Vulnerability Analysis",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math"
+      }
+    },
+    {
+      "course_code": "CS-UY 4783",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "23.0 CS-UY 4783 Applied Cryptography CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND MA-UY 2314 Discrete Mathematics OR MATH-UA 120 Discrete Mathematics CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math AND CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science",
+      "columns": {
+        "#": "23.0",
+        "tandon course": "CS-UY 4783 Applied Cryptography",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming AND MA-UY 2314 Discrete Mathematics OR MATH-UA 120 Discrete Mathematics",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math AND CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CS-UY 4793",
+      "source_sheet": "Tandon",
+      "source_scope": "ny_tandon",
+      "course_text": "24.0 CS-UY 4793 Computer Networking CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science",
+      "columns": {
+        "#": "24.0",
+        "tandon course": "CS-UY 4793 Computer Networking",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms AND CS-UY 2124 Object Oriented Programming",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CS-UH 1001",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "2.0 Computer Science CS-UH 1001 Introduction to Computer Science must be an Abu Dhabi student. must be an Abu Dhabi student. must be an Abu Dhabi student. must be an Abu Dhabi student.",
+      "columns": {
+        "#": "2.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 1001 Introduction to Computer Science",
+        "ad prerequsites": "must be an Abu Dhabi student.",
+        "ny courant/cas prerequsites": "must be an Abu Dhabi student.",
+        "ny tandon prerequsites": "must be an Abu Dhabi student.",
+        "sh prerequsites": "must be an Abu Dhabi student."
+      }
+    },
+    {
+      "course_code": "CS-UH 1002",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "3.0 Computer Science/Computer Engineering CS-UH 1002 Discrete Mathematics must be an Abu Dhabi student. must be an Abu Dhabi student. must be an Abu Dhabi student. must be an Abu Dhabi student.",
+      "columns": {
+        "#": "3.0",
+        "department": "Computer Science/Computer Engineering",
+        "ad course": "CS-UH 1002 Discrete Mathematics",
+        "ad prerequsites": "must be an Abu Dhabi student.",
+        "ny courant/cas prerequsites": "must be an Abu Dhabi student.",
+        "ny tandon prerequsites": "must be an Abu Dhabi student.",
+        "sh prerequsites": "must be an Abu Dhabi student."
+      }
+    },
+    {
+      "course_code": "CS-UH 1050",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "4.0 Computer Science CS-UH 1050 Data Structures CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers with a minimum A- Grade AND CS-UH 1002 Discrete Math; CS-UH 1002 Discrete Mathematics may be taken as a corequisite CSCI-UA 101 Introduction to Computer Science AND MATH-UA 120 Discrete Math; CS-UH 1002 Discrete Mathematics at AD may be taken as a corequisite CS-UY 1122 Introduction to Computer Science AND MA-UY 2314 Discrete Math; CS-UH 1002 Discrete Mathematics at AD may be taken as a corequisite CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math; CS-UH 1002 Discrete Mathematics at AD may be taken as a corequisite",
+      "columns": {
+        "#": "4.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 1050 Data Structures",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers with a minimum A- Grade AND CS-UH 1002 Discrete Math; CS-UH 1002 Discrete Mathematics may be taken as a corequisite",
+        "ny courant/cas prerequsites": "CSCI-UA 101 Introduction to Computer Science AND MATH-UA 120 Discrete Math; CS-UH 1002 Discrete Mathematics at AD may be taken as a corequisite",
+        "ny tandon prerequsites": "CS-UY 1122 Introduction to Computer Science AND MA-UY 2314 Discrete Math; CS-UH 1002 Discrete Mathematics at AD may be taken as a corequisite",
+        "sh prerequsites": "CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 2314 Discrete Math; CS-UH 1002 Discrete Mathematics at AD may be taken as a corequisite"
+      }
+    },
+    {
+      "course_code": "CS-UH 1052",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "5.0 Computer Science CS-UH 1052 Algorithms CS-UH 1002 Discrete Math AND CS-UH 1050 Data Structures OR ENGR-UH 2510 Data Structures and Algorithms CS-UH 1050 Data Structures may be taken as a corequisite MATH-UA 120 Discrete Math AND CSCI-UA 102 Data Structures; CS-UH 1050 Data Structures at AD may be taken as a corequisite MA-UY 2314 Discrete Math AND CS-UY 1134 Data Structures and Algorithms; CS-UH 1050 Data Structures at AD may be taken as a corequisite CSCI-SHU 2314 Discrete Math AND CSCI-SHU 210 Data Structures; CS-UH 1050 Data Structures at AD may be taken as a corequisite",
+      "columns": {
+        "#": "5.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 1052 Algorithms",
+        "ad prerequsites": "CS-UH 1002 Discrete Math AND CS-UH 1050 Data Structures OR ENGR-UH 2510 Data Structures and Algorithms CS-UH 1050 Data Structures may be taken as a corequisite",
+        "ny courant/cas prerequsites": "MATH-UA 120 Discrete Math AND CSCI-UA 102 Data Structures; CS-UH 1050 Data Structures at AD may be taken as a corequisite",
+        "ny tandon prerequsites": "MA-UY 2314 Discrete Math AND CS-UY 1134 Data Structures and Algorithms; CS-UH 1050 Data Structures at AD may be taken as a corequisite",
+        "sh prerequsites": "CSCI-SHU 2314 Discrete Math AND CSCI-SHU 210 Data Structures; CS-UH 1050 Data Structures at AD may be taken as a corequisite"
+      }
+    },
+    {
+      "course_code": "CS-UH 2010",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "6.0 Computer Science CS-UH 2010 Computers Systems Organization CS-UH 1050 Data Structures OR ENGR-UH 2510 Data Structures and Algorithms CSCI-UA 102 Data Structures CS-UY 1134 Data Structures and Algorithms CSCI-SHU 210 Data Structures",
+      "columns": {
+        "#": "6.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 2010 Computers Systems Organization",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 2510 Data Structures and Algorithms",
+        "ny courant/cas prerequsites": "CSCI-UA 102 Data Structures",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures"
+      }
+    },
+    {
+      "course_code": "CS-UH 2012",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "7.0 Computer Science CS-UH 2012 Software Engineering CS-UH 1050 Data Structures OR ENGR-UH 2510 Data Structures and Algorithms CSCI-UA 102 Data Structures CS-UY 1134 Data Structures and Algorithms CSCI-SHU 210 Data Structures",
+      "columns": {
+        "#": "7.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 2012 Software Engineering",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 2510 Data Structures and Algorithms",
+        "ny courant/cas prerequsites": "CSCI-UA 102 Data Structures",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures"
+      }
+    },
+    {
+      "course_code": "CS-UH 2213",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "8.0 Computer Science CS-UH 2213 Artificial Intelligence CS-UH 1052 Algorithms CSCI-UA 310 Basic Algorithms CS-UY 2413 Design and Analysis of Algorithms CSCI-SHU 220 Algorithms",
+      "columns": {
+        "#": "8.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 2213 Artificial Intelligence",
+        "ad prerequsites": "CS-UH 1052 Algorithms",
+        "ny courant/cas prerequsites": "CSCI-UA 310 Basic Algorithms",
+        "ny tandon prerequsites": "CS-UY 2413 Design and Analysis of Algorithms",
+        "sh prerequsites": "CSCI-SHU 220 Algorithms"
+      }
+    },
+    {
+      "course_code": "CS-UH 2214",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "9.0 Computer Science CS-UH 2214 Database Systems CS-UH 1052 Algorithms CSCI-UA 310 Basic Algorithms CS-UY 2413 Design and Analysis of Algorithms CSCI-SHU 220 Algorithms",
+      "columns": {
+        "#": "9.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 2214 Database Systems",
+        "ad prerequsites": "CS-UH 1052 Algorithms",
+        "ny courant/cas prerequsites": "CSCI-UA 310 Basic Algorithms",
+        "ny tandon prerequsites": "CS-UY 2413 Design and Analysis of Algorithms",
+        "sh prerequsites": "CSCI-SHU 220 Algorithms"
+      }
+    },
+    {
+      "course_code": "CS-UH 2215",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "13.0 Computer Science CS-UH 2215 Computer Graphics CS-UH 1052 Algorithms CSCI-UA 310 Basic Algorithms CS-UY 2413 Design and Analysis of Algorithms CSCI-SHU 220 Algorithms",
+      "columns": {
+        "#": "13.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 2215 Computer Graphics",
+        "ad prerequsites": "CS-UH 1052 Algorithms",
+        "ny courant/cas prerequsites": "CSCI-UA 310 Basic Algorithms",
+        "ny tandon prerequsites": "CS-UY 2413 Design and Analysis of Algorithms",
+        "sh prerequsites": "CSCI-SHU 220 Algorithms"
+      }
+    },
+    {
+      "course_code": "CS-UH 2216",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "14.0 Computer Science CS-UH 2216 Natural Language Processing CS-UH 1052 Algorithms CSCI-UA 310 Basic Algorithms CS-UY 2413 Design and Analysis of Algorithms CSCI-SHU 220 Algorithms",
+      "columns": {
+        "#": "14.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 2216 Natural Language Processing",
+        "ad prerequsites": "CS-UH 1052 Algorithms",
+        "ny courant/cas prerequsites": "CSCI-UA 310 Basic Algorithms",
+        "ny tandon prerequsites": "CS-UY 2413 Design and Analysis of Algorithms",
+        "sh prerequsites": "CSCI-SHU 220 Algorithms"
+      }
+    },
+    {
+      "course_code": "CS-UH 2218",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "15.0 Computer Science CS-UH 2218 Algorithmic Foundation of Data Science CS-UH 1050 Data Structures AND CS-UH 1052 Algorithms OR ENGR-UH 3510 Data Structures and Algorithms Corequisites: MATH-UH 1022Q Linear Algebra OR MATH-UH 1023Q Fundamentals of Linear Algebra AND MATH-UH 2011Q Probability and Statistics OR ENGR-UH 2010Q Probability and Statistics for Engineers",
+      "columns": {
+        "#": "15.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 2218 Algorithmic Foundation of Data Science",
+        "ad prerequsites": "CS-UH 1050 Data Structures AND CS-UH 1052 Algorithms OR ENGR-UH 3510 Data Structures and Algorithms Corequisites: MATH-UH 1022Q Linear Algebra OR MATH-UH 1023Q Fundamentals of Linear Algebra AND MATH-UH 2011Q Probability and Statistics OR ENGR-UH 2010Q Probability and Statistics for Engineers"
+      }
+    },
+    {
+      "course_code": "CS-UH 2219E",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "16.0 Computer Science CS-UH 2219E Computational Social Science CS-UH 1052 Algorithms CSCI-UA 310 Basic Algorithms CS-UY 2413 Design and Analysis of Algorithms CSCI-SHU 220 Algorithms",
+      "columns": {
+        "#": "16.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 2219E Computational Social Science",
+        "ad prerequsites": "CS-UH 1052 Algorithms",
+        "ny courant/cas prerequsites": "CSCI-UA 310 Basic Algorithms",
+        "ny tandon prerequsites": "CS-UY 2413 Design and Analysis of Algorithms",
+        "sh prerequsites": "CSCI-SHU 220 Algorithms"
+      }
+    },
+    {
+      "course_code": "CS-UH 2220",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "17.0 Computer Science CS-UH 2220 Machine Learning MATH-UH 1022Q Linear Algebra OR MATH-UH 1023Q Fundamentals of Linear Algebra AND MATH-UH 2011Q Probability and Statistics OR ENGR-UH 2010Q Probability and Statistics for Engineers AND CS-UH 1052 Algorithms",
+      "columns": {
+        "#": "17.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 2220 Machine Learning",
+        "ad prerequsites": "MATH-UH 1022Q Linear Algebra OR MATH-UH 1023Q Fundamentals of Linear Algebra AND MATH-UH 2011Q Probability and Statistics OR ENGR-UH 2010Q Probability and Statistics for Engineers AND CS-UH 1052 Algorithms"
+      }
+    },
+    {
+      "course_code": "CS-UH 3010",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "18.0 Computer Science CS-UH 3010 Operating Systems CS-UH 1052 Algorithms AND CS-UH 2010 Computer Systems Organization CSCI-UA 310 Basic Algorithms AND CSCI-UA 201 Computer Systems Organization CS-UY 2413 Design and Analysis of Algorithms AND CS-UY 2214 Computer Architecture and Organization CSCI-SHU 220 Algorithms AND CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "18.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 3010 Operating Systems",
+        "ad prerequsites": "CS-UH 1052 Algorithms AND CS-UH 2010 Computer Systems Organization",
+        "ny courant/cas prerequsites": "CSCI-UA 310 Basic Algorithms AND CSCI-UA 201 Computer Systems Organization",
+        "ny tandon prerequsites": "CS-UY 2413 Design and Analysis of Algorithms AND CS-UY 2214 Computer Architecture and Organization",
+        "sh prerequsites": "CSCI-SHU 220 Algorithms AND CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CS-UH 3012",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "19.0 Computer Science CS-UH 3012 Computer Networks CS-UH 1052 Algorithms AND CS-UH 2010 Computer Systems Organization CSCI-UA 310 Basic Algorithms AND CSCI-UA 201 Computer Systems Organization CS-UY 2413 Design and Analysis of Algorithms AND CS-UY 2214 Computer Architecture and Organization CSCI-SHU 220 Algorithms AND CENG-SHU 202 Computer Architecture",
+      "columns": {
+        "#": "19.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 3012 Computer Networks",
+        "ad prerequsites": "CS-UH 1052 Algorithms AND CS-UH 2010 Computer Systems Organization",
+        "ny courant/cas prerequsites": "CSCI-UA 310 Basic Algorithms AND CSCI-UA 201 Computer Systems Organization",
+        "ny tandon prerequsites": "CS-UY 2413 Design and Analysis of Algorithms AND CS-UY 2214 Computer Architecture and Organization",
+        "sh prerequsites": "CSCI-SHU 220 Algorithms AND CENG-SHU 202 Computer Architecture"
+      }
+    },
+    {
+      "course_code": "CS-UH 3210",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "20.0 Computer Science CS-UH 3210 Computer Security Pre- or Corequisites: CS-UH 3010 Operating Systems AND CS-UH 3012 Computer Networks CSCI-UA 202 Operating Systems AND permission from instructor CS-UY 2214 Operating Systems AND CS-UY 4793 Computer Networks CSCI-SHU 215 Operating Systems AND CSCI-SHU 308 Computer Networks",
+      "columns": {
+        "#": "20.0",
+        "department": "Computer Science",
+        "ad course": "CS-UH 3210 Computer Security",
+        "ad prerequsites": "Pre- or Corequisites: CS-UH 3010 Operating Systems AND CS-UH 3012 Computer Networks",
+        "ny courant/cas prerequsites": "CSCI-UA 202 Operating Systems AND permission from instructor",
+        "ny tandon prerequsites": "CS-UY 2214 Operating Systems AND CS-UY 4793 Computer Networks",
+        "sh prerequsites": "CSCI-SHU 215 Operating Systems AND CSCI-SHU 308 Computer Networks"
+      }
+    },
+    {
+      "course_code": "CS-UH 3211",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "21.0 Computer Science/Computer Engineering CS-UH 3211 Quantum Computing MATH-UH 1022 Linear Algebra OR MATH-UH 1023 Fundamentals of Linear Algebra AND MATH-UH 2011Q Probability and Statistics OR ENGR-UH 2010Q Probability and Statistics for Engineers AND one of the following: • CS-UH 1052 Algorithms • ENGR-UH 3510 Data Sturctures and Algorithms • PHYS-UH 3213 Computational Physics MATH-UA 140 Linear Algebra AND MATH-UA 235 Probability and Statistics AND CSCI-UA 102 Data Structures MATH-UY 3044 Linear Algebra OR MA-UY 2034 Linear Algebra and Differential Equations AND ECE-UY 2233 Intro to Probability OR MA-UY 2233 Intro to Probability OR MA-UY 2224 Data Analysis AND CS-UY 1134 Data Structures and Algorithms MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra AND MATH-SHU 235 Probability and Statistics AND CSCI-SHU 210 Data Structures",
+      "columns": {
+        "#": "21.0",
+        "department": "Computer Science/Computer Engineering",
+        "ad course": "CS-UH 3211 Quantum Computing",
+        "ad prerequsites": "MATH-UH 1022 Linear Algebra OR MATH-UH 1023 Fundamentals of Linear Algebra AND MATH-UH 2011Q Probability and Statistics OR ENGR-UH 2010Q Probability and Statistics for Engineers AND one of the following: • CS-UH 1052 Algorithms • ENGR-UH 3510 Data Sturctures and Algorithms • PHYS-UH 3213 Computational Physics",
+        "ny courant/cas prerequsites": "MATH-UA 140 Linear Algebra AND MATH-UA 235 Probability and Statistics AND CSCI-UA 102 Data Structures",
+        "ny tandon prerequsites": "MATH-UY 3044 Linear Algebra OR MA-UY 2034 Linear Algebra and Differential Equations AND ECE-UY 2233 Intro to Probability OR MA-UY 2233 Intro to Probability OR MA-UY 2224 Data Analysis AND CS-UY 1134 Data Structures and Algorithms",
+        "sh prerequsites": "MATH-SHU 140 Linear Algebra OR MATH-SHU 141 Honors Linear Algebra AND MATH-SHU 235 Probability and Statistics AND CSCI-SHU 210 Data Structures"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 3332",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "22.0 Computer Science ENGR-UH 3332 Applied Machine Learning ENGR-UH 1000 Computer Programming for Engineers OR CS-UH 1001 Introduction to Computer Science AND ENGR-UH 2510 Data Structures and Algorithms OR CS-UH 1050 Data Structures AND CS-UH 1052 Algorithms AND MATH-UH 1022 Linear Algebra AND ENGR-UH 2010Q Probability and Statistics for Engineers OR MATH-UH 2011Q Probability and Statistics CSCI-UA 101 Intro to Computer Science AND CSCI-UA 102 Data Structures AND CSCI-UA 310 Algorithms AND MATH-UA 235 Probability and Statistics CS-UY 1114 Intro to Programming and Problem Solving AND CS-UY 1134 Data Structures and Algorithms AND one of the following: • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 210 Data Structures AND CSCI-SHU 220 Algorithms AND MATH-SHU 235 Probability and Statistics",
+      "columns": {
+        "#": "22.0",
+        "department": "Computer Science",
+        "ad course": "ENGR-UH 3332 Applied Machine Learning",
+        "ad prerequsites": "ENGR-UH 1000 Computer Programming for Engineers OR CS-UH 1001 Introduction to Computer Science AND ENGR-UH 2510 Data Structures and Algorithms OR CS-UH 1050 Data Structures AND CS-UH 1052 Algorithms AND MATH-UH 1022 Linear Algebra AND ENGR-UH 2010Q Probability and Statistics for Engineers OR MATH-UH 2011Q Probability and Statistics",
+        "ny courant/cas prerequsites": "CSCI-UA 101 Intro to Computer Science AND CSCI-UA 102 Data Structures AND CSCI-UA 310 Algorithms AND MATH-UA 235 Probability and Statistics",
+        "ny tandon prerequsites": "CS-UY 1114 Intro to Programming and Problem Solving AND CS-UY 1134 Data Structures and Algorithms AND one of the following: • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis",
+        "sh prerequsites": "CSCI-SHU 101 Introduction to Computer Science AND CSCI-SHU 210 Data Structures AND CSCI-SHU 220 Algorithms AND MATH-SHU 235 Probability and Statistics"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 4560",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "23.0 Computer Science ENGR-UH 4560 Selected Topics in Information and Computational Systems Junior standing or higher AND ENGR-UH 3332 Applied Machine Learning Junior standing or higher AND permission from instructor Junior standing or higher AND ECE-UY 4563 Introduction to Machine Learning Junior standing or higher AND CSCI-SHU 360 Machine Learning.",
+      "columns": {
+        "#": "23.0",
+        "department": "Computer Science",
+        "ad course": "ENGR-UH 4560 Selected Topics in Information and Computational Systems",
+        "ad prerequsites": "Junior standing or higher AND ENGR-UH 3332 Applied Machine Learning",
+        "ny courant/cas prerequsites": "Junior standing or higher AND permission from instructor",
+        "ny tandon prerequsites": "Junior standing or higher AND ECE-UY 4563 Introduction to Machine Learning",
+        "sh prerequsites": "Junior standing or higher AND CSCI-SHU 360 Machine Learning."
+      }
+    },
+    {
+      "course_code": "ENGR-UH 1000",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "24.0 Computer Engineering ENGR-UH 1000 Computer Programming for Engineers Restricted to First Year and Sophomore students only Restricted to First Year and Sophomore students only Restricted to First Year and Sophomore students only Restricted to First Year and Sophomore students only",
+      "columns": {
+        "#": "24.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 1000 Computer Programming for Engineers",
+        "ad prerequsites": "Restricted to First Year and Sophomore students only",
+        "ny courant/cas prerequsites": "Restricted to First Year and Sophomore students only",
+        "ny tandon prerequsites": "Restricted to First Year and Sophomore students only",
+        "sh prerequsites": "Restricted to First Year and Sophomore students only"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 1010",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "25.0 Computer Engineering ENGR-UH 1010 Engineering Ethics None None None None",
+      "columns": {
+        "#": "25.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 1010 Engineering Ethics",
+        "ad prerequsites": "None",
+        "ny courant/cas prerequsites": "None",
+        "ny tandon prerequsites": "None",
+        "sh prerequsites": "None"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 2011",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "26.0 Computer Engineering ENGR-UH 2011 Engineering Statics SCIEN-UH 1124P Foundations of Science 1 Lab: Physics AND SCIEN-UH 1124C Foundations of Science 2 Lab: Chemistry CHEM-UA 125 General Chemistry I AND BIOL-UA 11 Principles of Biology I AND MATH-UA 121 Calculus I BMS-UY 1003 Cell and Molecular Biology AND CM-UY 1013 Chemistry 1 AND MA-UY 1024 Calculus I for Engineers 1 CHEM-SHU 125 Foundations of Chemistry I AND BIOL-SHU 21 Foundations of Biology I AND MATH-SHU 131 Calculus",
+      "columns": {
+        "#": "26.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 2011 Engineering Statics",
+        "ad prerequsites": "SCIEN-UH 1124P Foundations of Science 1 Lab: Physics AND SCIEN-UH 1124C Foundations of Science 2 Lab: Chemistry",
+        "ny courant/cas prerequsites": "CHEM-UA 125 General Chemistry I AND BIOL-UA 11 Principles of Biology I AND MATH-UA 121 Calculus I",
+        "ny tandon prerequsites": "BMS-UY 1003 Cell and Molecular Biology AND CM-UY 1013 Chemistry 1 AND MA-UY 1024 Calculus I for Engineers 1",
+        "sh prerequsites": "CHEM-SHU 125 Foundations of Chemistry I AND BIOL-SHU 21 Foundations of Biology I AND MATH-SHU 131 Calculus"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 2012",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "27.0 Computer Engineering ENGR-UH 2012 Conservation Laws in Engineering Foundations of Science 1 & 2 CHEM-UA 125 General Chemistry I AND BIOL-UA 11 Principles of Biology I AND MATH-UA 121 Calculus I BMS-UY 1003 Cell and Molecular Biology AND CM-UY 1013 Chemistry 1 AND MA-UY 1024 Calculus I for Engineers 1 CHEM-SHU 125 Foundations of Chemistry I AND BIOL-SHU 21 Foundations of Biology I AND MATH-SHU 131 Calculus",
+      "columns": {
+        "#": "27.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 2012 Conservation Laws in Engineering",
+        "ad prerequsites": "Foundations of Science 1 & 2",
+        "ny courant/cas prerequsites": "CHEM-UA 125 General Chemistry I AND BIOL-UA 11 Principles of Biology I AND MATH-UA 121 Calculus I",
+        "ny tandon prerequsites": "BMS-UY 1003 Cell and Molecular Biology AND CM-UY 1013 Chemistry 1 AND MA-UY 1024 Calculus I for Engineers 1",
+        "sh prerequsites": "CHEM-SHU 125 Foundations of Chemistry I AND BIOL-SHU 21 Foundations of Biology I AND MATH-SHU 131 Calculus"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 2013",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "28.0 Computer Engineering ENGR-UH 2013 Digital Logic Sophomore standing or higher Sophomore standing or higher Sophomore standing or higher Sophomore standing or higher",
+      "columns": {
+        "#": "28.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 2013 Digital Logic",
+        "ad prerequsites": "Sophomore standing or higher",
+        "ny courant/cas prerequsites": "Sophomore standing or higher",
+        "ny tandon prerequsites": "Sophomore standing or higher",
+        "sh prerequsites": "Sophomore standing or higher"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 2017",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "29.0 Computer Engineering ENGR-UH 2017 Numerical Methods ENGR-UH 1000 Computer Programming for Engineers OR CS-UH 1001 Introduction to Computer Science AND MATH-UH 1024 Fundamentals of Ordinary Differential Equations OR MATH-UH 2010 Ordinary Differential Equations CSCI-UA 310 Basic Algorithms OR CSCI-UA 101 Introduction to Computer Science CS-UY 1114 Intro to Programming and Problem Solving OR CS-UY 1122 Introduction to Computer Science CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer and Data Science",
+      "columns": {
+        "#": "29.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 2017 Numerical Methods",
+        "ad prerequsites": "ENGR-UH 1000 Computer Programming for Engineers OR CS-UH 1001 Introduction to Computer Science AND MATH-UH 1024 Fundamentals of Ordinary Differential Equations OR MATH-UH 2010 Ordinary Differential Equations",
+        "ny courant/cas prerequsites": "CSCI-UA 310 Basic Algorithms OR CSCI-UA 101 Introduction to Computer Science",
+        "ny tandon prerequsites": "CS-UY 1114 Intro to Programming and Problem Solving OR CS-UY 1122 Introduction to Computer Science",
+        "sh prerequsites": "CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer and Data Science"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 2019",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "30.0 Computer Engineering ENGR-UH 2019 Circuits Fundamentals Sophomore standing or higher Sophomore standing or higher Sophomore standing or higher Sophomore standing or higher",
+      "columns": {
+        "#": "30.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 2019 Circuits Fundamentals",
+        "ad prerequsites": "Sophomore standing or higher",
+        "ny courant/cas prerequsites": "Sophomore standing or higher",
+        "ny tandon prerequsites": "Sophomore standing or higher",
+        "sh prerequsites": "Sophomore standing or higher"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 2310",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "31.0 Computer Engineering ENGR-UH 2310 Advanced Digital Logic ENGR-UH 2013 Digital Logic CS-UY 2204 Digital Logic and State Machine Design OR ECE-UY 2204 Digital Logic and State Machine Design CENG-SHU 201 Digital Logic",
+      "columns": {
+        "#": "31.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 2310 Advanced Digital Logic",
+        "ad prerequsites": "ENGR-UH 2013 Digital Logic",
+        "ny tandon prerequsites": "CS-UY 2204 Digital Logic and State Machine Design OR ECE-UY 2204 Digital Logic and State Machine Design",
+        "sh prerequsites": "CENG-SHU 201 Digital Logic"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 2510",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "32.0 Computer Engineering ENGR-UH 2510 Object-Oriented Programming ENGR-UH 1000 Computer Programming for Engineers CSCI-UA 2 Introduction to Computer Programming (No Prior Experience) OR CSCI-UA 101 Intro to Computer Science CS-UY 1114 Intro To Programming & Problem Solving OR CS-UY 1122 Introduction to Computer Science CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer and Data Science",
+      "columns": {
+        "#": "32.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 2510 Object-Oriented Programming",
+        "ad prerequsites": "ENGR-UH 1000 Computer Programming for Engineers",
+        "ny courant/cas prerequsites": "CSCI-UA 2 Introduction to Computer Programming (No Prior Experience) OR CSCI-UA 101 Intro to Computer Science",
+        "ny tandon prerequsites": "CS-UY 1114 Intro To Programming & Problem Solving OR CS-UY 1122 Introduction to Computer Science",
+        "sh prerequsites": "CSCI-SHU 11 Introduction to Computer Programming OR CSCI-SHU 101 Introduction to Computer and Data Science"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 3510",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "33.0 Computer Engineering ENGR-UH 3510 Data Structures and Algorithms ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Mathematics Corequisite: ENGR-UH 2025 Fundamentals of Discrete Math",
+      "columns": {
+        "#": "33.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 3510 Data Structures and Algorithms",
+        "ad prerequsites": "ENGR-UH 1000 Computer Programming for Engineers AND CS-UH 1002 Discrete Mathematics Corequisite: ENGR-UH 2025 Fundamentals of Discrete Math"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 3511",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "34.0 Computer Engineering ENGR-UH 3511 Computer Organization and Architecture ENGR-UH 2310 Advanced Digital Logic",
+      "columns": {
+        "#": "34.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 3511 Computer Organization and Architecture",
+        "ad prerequsites": "ENGR-UH 2310 Advanced Digital Logic"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 3512",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "36.0 Computer Engineering ENGR-UH 3512 Computer Networks ENGR-UH 3510 Data Structures and Algorithms OR CS-UH 1050 Data Structures AND CS-UH 1052 Algorithms",
+      "columns": {
+        "#": "36.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 3512 Computer Networks",
+        "ad prerequsites": "ENGR-UH 3510 Data Structures and Algorithms OR CS-UH 1050 Data Structures AND CS-UH 1052 Algorithms"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 4143",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "37.0 Computer Engineering ENGR-UH 4143 Computer Vision and Pattern Recognition ENGR-UH 3510 Data Structures and Algorithms (OR CS-UH 1050 Data Structures AND CS-UH 1052 Algorithms) AND MATH-UH 1022 Linear Algebra AND ENGR-UH 2010Q Probability and Statistics OR MATH-UH 2011Q Probability and Statistics",
+      "columns": {
+        "#": "37.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 4143 Computer Vision and Pattern Recognition",
+        "ad prerequsites": "ENGR-UH 3510 Data Structures and Algorithms (OR CS-UH 1050 Data Structures AND CS-UH 1052 Algorithms) AND MATH-UH 1022 Linear Algebra AND ENGR-UH 2010Q Probability and Statistics OR MATH-UH 2011Q Probability and Statistics"
+      }
+    },
+    {
+      "course_code": "ENGR-UH 4621",
+      "source_sheet": "Abu Dhabi",
+      "source_scope": "abu_dhabi",
+      "course_text": "38.0 Computer Engineering ENGR-UH 4621 Wireless Communications ENGR-UH 3610 Signals and Systems AND ENGR-UH 2010Q Probability and Statistics",
+      "columns": {
+        "#": "38.0",
+        "department": "Computer Engineering",
+        "ad course": "ENGR-UH 4621 Wireless Communications",
+        "ad prerequsites": "ENGR-UH 3610 Signals and Systems AND ENGR-UH 2010Q Probability and Statistics"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 11",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "1.0 Computer Science CSCI-SHU 11 Intro to Computer Programming Either placed into Calculus OR at least a C in Pre-Calculus Either placed into Calculus OR at least a C in Pre-Calculus Either placed into Calculus OR at least a C in Pre-Calculus Either placed into Calculus OR at least a C in Pre-Calculus",
+      "columns": {
+        "#": "1.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 11 Intro to Computer Programming",
+        "sh prerequsites": "Either placed into Calculus OR at least a C in Pre-Calculus",
+        "ny courant/cas prerequsites": "Either placed into Calculus OR at least a C in Pre-Calculus",
+        "ny tandon prerequsites": "Either placed into Calculus OR at least a C in Pre-Calculus",
+        "ad prerequsites": "Either placed into Calculus OR at least a C in Pre-Calculus"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 101",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "2.0 Computer Science CSCI-SHU 101 Introduction to Computer and Data Science CSCI-SHU 11 Introduction to Computer Programming OR placement exam CSCI-UA 2 Introduction to Computer Programming CS-UY 1114 Introduction to Programming and Problem Solving CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+      "columns": {
+        "#": "2.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 101 Introduction to Computer and Data Science",
+        "sh prerequsites": "CSCI-SHU 11 Introduction to Computer Programming OR placement exam",
+        "ny courant/cas prerequsites": "CSCI-UA 2 Introduction to Computer Programming",
+        "ny tandon prerequsites": "CS-UY 1114 Introduction to Programming and Problem Solving",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 210",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "3.0 Computer Science CSCI-SHU 210 Data Structures CSCI-SHU 101 Introduction to Computer and Data Science OR CSCI-SHU 11 Intro to Computer Programming with a grade of A- CSCI-UA 2 Introduction to Computer Programming with a grade of A- OR CSCI-UA 101 Introduction to Computer Science CS-UY 1114 Introduction to Programming and Problem Solving with a grade of A- OR CS-UY 1122 Introduction to Computer SCience CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+      "columns": {
+        "#": "3.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 210 Data Structures",
+        "sh prerequsites": "CSCI-SHU 101 Introduction to Computer and Data Science OR CSCI-SHU 11 Intro to Computer Programming with a grade of A-",
+        "ny courant/cas prerequsites": "CSCI-UA 2 Introduction to Computer Programming with a grade of A- OR CSCI-UA 101 Introduction to Computer Science",
+        "ny tandon prerequsites": "CS-UY 1114 Introduction to Programming and Problem Solving with a grade of A- OR CS-UY 1122 Introduction to Computer SCience",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 213",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "4.0 Computer Science CSCI-SHU 213 Databases CSCI-SHU 210 Data Structures CSCI-UA 102 Data Structures CS-UY 1134 Data Structures and Algorithms CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms",
+      "columns": {
+        "#": "4.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 213 Databases",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures",
+        "ny courant/cas prerequsites": "CSCI-UA 102 Data Structures",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 215",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "5.0 Computer Science CSCI-SHU 215 Operating Systems CENG-SHU 202 Computer Architecture CSCI-UA 201 Computer Systems Organization CS-UY 2214 Computer Architecture and Organization CS-UH 2010 Computer Systems Organization",
+      "columns": {
+        "#": "5.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 215 Operating Systems",
+        "sh prerequsites": "CENG-SHU 202 Computer Architecture",
+        "ny courant/cas prerequsites": "CSCI-UA 201 Computer Systems Organization",
+        "ny tandon prerequsites": "CS-UY 2214 Computer Architecture and Organization",
+        "ad prerequsites": "CS-UH 2010 Computer Systems Organization"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 220",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "6.0 Computer Science CSCI-SHU 220 Algorithms CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math OR Honors Math major AND MATH-SHU 121 Calculus OR MATH-SHU 201 Honor Calculus CSCI-UA 102 Data Structures CS-UY 1134 Data Structures and Algorithms CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms",
+      "columns": {
+        "#": "6.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 220 Algorithms",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math OR Honors Math major AND MATH-SHU 121 Calculus OR MATH-SHU 201 Honor Calculus",
+        "ny courant/cas prerequsites": "CSCI-UA 102 Data Structures",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 254",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "7.0 Computer Science CSCI-SHU 254 Distributed Systems CSCI-SHU 215 Operating Systems CSCI-UA 202 Operating Systems CS-UY 3224 Operating Systems CS-UH 3010 Operating Systems OR ENGR-UH 3520 Operating Systems",
+      "columns": {
+        "#": "7.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 254 Distributed Systems",
+        "sh prerequsites": "CSCI-SHU 215 Operating Systems",
+        "ny courant/cas prerequsites": "CSCI-UA 202 Operating Systems",
+        "ny tandon prerequsites": "CS-UY 3224 Operating Systems",
+        "ad prerequsites": "CS-UH 3010 Operating Systems OR ENGR-UH 3520 Operating Systems"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 308",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "8.0 Computer Science CSCI-SHU 308 Computer Networking CSCI-SHU 101 Introduction to Computer Science OR placement test CSCI-UA 101 Introduction to Computer Science OR placement exam CS-UY 1122 Introduction to Computer Science OR placement exam CS-UH 1001 Introduction to Computer Science OR placement exam",
+      "columns": {
+        "#": "8.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 308 Computer Networking",
+        "sh prerequsites": "CSCI-SHU 101 Introduction to Computer Science OR placement test",
+        "ny courant/cas prerequsites": "CSCI-UA 101 Introduction to Computer Science OR placement exam",
+        "ny tandon prerequsites": "CS-UY 1122 Introduction to Computer Science OR placement exam",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR placement exam"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 311",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "9.0 Computer Science CSCI-SHU 311 Functional Programming CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math CSCI-UA 102 Data Structures AND MATH-UA 120 Discrete Math CS-UY 1134 Data structures and Algorithms AND MA-UY 2314 Discrete Mathematics OR MATH-UA 120 Discrete Mathematics. CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math",
+      "columns": {
+        "#": "9.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 311 Functional Programming",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures AND CSCI-SHU 2314 Discrete Math",
+        "ny courant/cas prerequsites": "CSCI-UA 102 Data Structures AND MATH-UA 120 Discrete Math",
+        "ny tandon prerequsites": "CS-UY 1134 Data structures and Algorithms AND MA-UY 2314 Discrete Mathematics OR MATH-UA 120 Discrete Mathematics.",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms AND CS-UH 1002 Discrete Math OR ENGR-UH 2025 Fundamentals of Discrete Math"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 360",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "10.0 Computer Science / Data Science CSCI-SHU 360 Machine Learning CSCI-SHU 11 Introduction to Computer Programming AND One of the following: • MATH-SHU 235 Probability and Statistic • BUSF-SHU 101 Statistics for Business and Economics • MATH-SHU 238 Theory of Probability CSCI-UA 2 Introduction to Computer Programming AND MATH-UA 235 Probability and Statistics CSCI-UA 2 Introduction to Computer Programming AND One of the following: • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis CS-UY 1114 Introduction to Programming and Problem Solving AND ENGR-UH 2010Q Probability and Statistics for Engineers OR MATH-UH 2011Q Probability and Statistics",
+      "columns": {
+        "#": "10.0",
+        "department": "Computer Science / Data Science",
+        "sh course": "CSCI-SHU 360 Machine Learning",
+        "sh prerequsites": "CSCI-SHU 11 Introduction to Computer Programming AND One of the following: • MATH-SHU 235 Probability and Statistic • BUSF-SHU 101 Statistics for Business and Economics • MATH-SHU 238 Theory of Probability",
+        "ny courant/cas prerequsites": "CSCI-UA 2 Introduction to Computer Programming AND MATH-UA 235 Probability and Statistics",
+        "ny tandon prerequsites": "CSCI-UA 2 Introduction to Computer Programming AND One of the following: • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis",
+        "ad prerequsites": "CS-UY 1114 Introduction to Programming and Problem Solving AND ENGR-UH 2010Q Probability and Statistics for Engineers OR MATH-UH 2011Q Probability and Statistics"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 375",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "11.0 Computer Science CSCI-SHU 375 Reinforcement Learning CSCI-SHU 360 Machine Learning AND One of the following: • MATH-SHU 235 Probability and Statistic • BUSF-SHU 101 Statistics for Business and Economics • MATH-SHU 238 Theory of Probability CSCI-U 473 Machine Learning AND MATH-UA 235 Probability and Statistics CS-UY 4563 Machine Learning AND One of the following: • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis CS-UH 2220 Machine Learning OR ENGR-UH 3332 Applied Machine Learning AND ENGR-UH 2010Q Probability and Statistics for Engineers OR MATH-UH 2011Q Probability and Statistics",
+      "columns": {
+        "#": "11.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 375 Reinforcement Learning",
+        "sh prerequsites": "CSCI-SHU 360 Machine Learning AND One of the following: • MATH-SHU 235 Probability and Statistic • BUSF-SHU 101 Statistics for Business and Economics • MATH-SHU 238 Theory of Probability",
+        "ny courant/cas prerequsites": "CSCI-U 473 Machine Learning AND MATH-UA 235 Probability and Statistics",
+        "ny tandon prerequsites": "CS-UY 4563 Machine Learning AND One of the following: • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis",
+        "ad prerequsites": "CS-UH 2220 Machine Learning OR ENGR-UH 3332 Applied Machine Learning AND ENGR-UH 2010Q Probability and Statistics for Engineers OR MATH-UH 2011Q Probability and Statistics"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 376",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "12.0 Computer Science CSCI-SHU 376 Natural Language Processing CSCI-SHU 11 Introduction to Computer Programming AND One of the following: • CSCI-SHU 360 Machine Learning • MATH-SHU 235 Probability and Statistic • BUSF-SHU 101 Statistics for Business and Economics • MATH-SHU 238 Theory of Probability CSCI-U 473 Machine Learning AND MATH-UA 235 Probability and Statistics CS-UY 4563 Machine Learning AND One of the following: • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis CS-UH 2220 Machine Learning OR ENGR-UH 3332 Applied Machine Learning AND ENGR-UH 2010Q Probability and Statistics for Engineers OR MATH-UH 2011Q Probability and Statistics",
+      "columns": {
+        "#": "12.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 376 Natural Language Processing",
+        "sh prerequsites": "CSCI-SHU 11 Introduction to Computer Programming AND One of the following: • CSCI-SHU 360 Machine Learning • MATH-SHU 235 Probability and Statistic • BUSF-SHU 101 Statistics for Business and Economics • MATH-SHU 238 Theory of Probability",
+        "ny courant/cas prerequsites": "CSCI-U 473 Machine Learning AND MATH-UA 235 Probability and Statistics",
+        "ny tandon prerequsites": "CS-UY 4563 Machine Learning AND One of the following: • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis",
+        "ad prerequsites": "CS-UH 2220 Machine Learning OR ENGR-UH 3332 Applied Machine Learning AND ENGR-UH 2010Q Probability and Statistics for Engineers OR MATH-UH 2011Q Probability and Statistics"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 378",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "13.0 Computer Science CSCI-SHU 378 Introduction to Cryptography CSCI-SHU 220 Algorithms AND MATH-SHU 238 Theory of Probability OR permission of the instructor CSCI-UA 310 Basic Algorithms AND MATH-UA 233 Theory of Probability CS-UY 2413 Design & Analysis of Algorithms AND One of the following: • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms AND ENGR-UH 2010Q Probability and Statistics for Engineers OR MATH-UH 2011Q Probability and Statistics",
+      "columns": {
+        "#": "13.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 378 Introduction to Cryptography",
+        "sh prerequsites": "CSCI-SHU 220 Algorithms AND MATH-SHU 238 Theory of Probability OR permission of the instructor",
+        "ny courant/cas prerequsites": "CSCI-UA 310 Basic Algorithms AND MATH-UA 233 Theory of Probability",
+        "ny tandon prerequsites": "CS-UY 2413 Design & Analysis of Algorithms AND One of the following: • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis",
+        "ad prerequsites": "CS-UH 1052 Basic Algorithms OR ENGR-UH 3510 Data Structures and Algorithms AND ENGR-UH 2010Q Probability and Statistics for Engineers OR MATH-UH 2011Q Probability and Statistics"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 381",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "14.0 Computer Science CSCI-SHU 381 Recommendation Systems One of the following: • CSCI-SHU 360 Machine Learning • MATH-SHU 235 Probability and Statistic • BUSF-SHU 101 Statistics for Business and Economics • MATH-SHU 238 Theory of Probability CSCI-U 473 Machine Learning AND MATH-UA 235 Probability and Statistics CS-UY 4563 Machine Learning AND One of the following: • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis CS-UH 2220 Machine Learning OR ENGR-UH 3332 Applied Machine Learning AND ENGR-UH 2010Q Probability and Statistics for Engineers OR MATH-UH 2011Q Probability and Statistics",
+      "columns": {
+        "#": "14.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 381 Recommendation Systems",
+        "sh prerequsites": "One of the following: • CSCI-SHU 360 Machine Learning • MATH-SHU 235 Probability and Statistic • BUSF-SHU 101 Statistics for Business and Economics • MATH-SHU 238 Theory of Probability",
+        "ny courant/cas prerequsites": "CSCI-U 473 Machine Learning AND MATH-UA 235 Probability and Statistics",
+        "ny tandon prerequsites": "CS-UY 4563 Machine Learning AND One of the following: • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis",
+        "ad prerequsites": "CS-UH 2220 Machine Learning OR ENGR-UH 3332 Applied Machine Learning AND ENGR-UH 2010Q Probability and Statistics for Engineers OR MATH-UH 2011Q Probability and Statistics"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 410",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "15.0 Computer Science CSCI-SHU 410 Software Engineering CSCI-SHU 101 Introduction to Computer Science CSCI-UA 101 Introduction to Computer Science CS-UY 1122 Introduction to Computer Science CS-UH 1001 Introduction to Computer Science",
+      "columns": {
+        "#": "15.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 410 Software Engineering",
+        "sh prerequsites": "CSCI-SHU 101 Introduction to Computer Science",
+        "ny courant/cas prerequsites": "CSCI-UA 101 Introduction to Computer Science",
+        "ny tandon prerequsites": "CS-UY 1122 Introduction to Computer Science",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science"
+      }
+    },
+    {
+      "course_code": "CSCI-SHU 2314",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "16.0 Computer Science CSCI-SHU 2314 Discrete Mathematics MATH-SHU 131 Calculus OR MATH-SHU 201 Honors Claculus MATH-UA 121 Calculus I OR MATH-UA 212 Math for Economics II (for Economics majors) MA-UY 1024 Calculus I for Engineers OR MA-UY 1324 Integrated Calculus I for Engineers MATH-UH 1013Q Calculus with Applications to Economics OR MATH-UH 1012Q Calculus with Applications to Science and Engineering",
+      "columns": {
+        "#": "16.0",
+        "department": "Computer Science",
+        "sh course": "CSCI-SHU 2314 Discrete Mathematics",
+        "sh prerequsites": "MATH-SHU 131 Calculus OR MATH-SHU 201 Honors Claculus",
+        "ny courant/cas prerequsites": "MATH-UA 121 Calculus I OR MATH-UA 212 Math for Economics II (for Economics majors)",
+        "ny tandon prerequsites": "MA-UY 1024 Calculus I for Engineers OR MA-UY 1324 Integrated Calculus I for Engineers",
+        "ad prerequsites": "MATH-UH 1013Q Calculus with Applications to Economics OR MATH-UH 1012Q Calculus with Applications to Science and Engineering"
+      }
+    },
+    {
+      "course_code": "DATS-SHU 235",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "17.0 Data Science DATS-SHU 235 Information Visualization CSCI-SHU 210 Data Structures CSCI-UA 102 Data Structures CS-UY 1134 Data Structures and Algorithms CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms",
+      "columns": {
+        "#": "17.0",
+        "department": "Data Science",
+        "sh course": "DATS-SHU 235 Information Visualization",
+        "sh prerequsites": "CSCI-SHU 210 Data Structures",
+        "ny courant/cas prerequsites": "CSCI-UA 102 Data Structures",
+        "ny tandon prerequsites": "CS-UY 1134 Data Structures and Algorithms",
+        "ad prerequsites": "CS-UH 1050 Data Structures OR ENGR-UH 3510 Data Structures and Algorithms"
+      }
+    },
+    {
+      "course_code": "DATS-SHU 240",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "18.0 Data Science DATS-SHU 240 Introduction to Optimization and Mathematical Programming CSCI-SHU 11 Intro to Computer Programming AND MATH-SHU 121 Calculus OR MATH-SHU 201 Honor Calculus CSCI-UA 2 Introduction to Computer Programming AND One of the following: • MATH-UA 121 Calculus I • MATH-UA 122 Calculus II • MATH-UA 131 Math for Econ 1 • MATH-UA 132 Math for Econ II CS-UY 1114 Introduction to Programming and Problem Solving AND MA-UY 1024 Calculus I for Engineers OR MA-UY 1324 Integrated Calculus 1 for Engineers CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND MATH-UH 1012Q Calculus with Applications to Science and Engineering OR MATH-UH 1013Q Calculus with Applications to Economics",
+      "columns": {
+        "#": "18.0",
+        "department": "Data Science",
+        "sh course": "DATS-SHU 240 Introduction to Optimization and Mathematical Programming",
+        "sh prerequsites": "CSCI-SHU 11 Intro to Computer Programming AND MATH-SHU 121 Calculus OR MATH-SHU 201 Honor Calculus",
+        "ny courant/cas prerequsites": "CSCI-UA 2 Introduction to Computer Programming AND One of the following: • MATH-UA 121 Calculus I • MATH-UA 122 Calculus II • MATH-UA 131 Math for Econ 1 • MATH-UA 132 Math for Econ II",
+        "ny tandon prerequsites": "CS-UY 1114 Introduction to Programming and Problem Solving AND MA-UY 1024 Calculus I for Engineers OR MA-UY 1324 Integrated Calculus 1 for Engineers",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers AND MATH-UH 1012Q Calculus with Applications to Science and Engineering OR MATH-UH 1013Q Calculus with Applications to Economics"
+      }
+    },
+    {
+      "course_code": "DATS-SHU 369",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "19.0 Data Science DATS-SHU 369 Machine Learning with Graphs One of the following: • CSCI-SHU 360 Machine Learning • MATH-SHU 235 Probability and Statistic • BUSF-SHU 101 Statistics for Business and Economics • MATH-SHU 238 Theory of Probability CSCI-U 473 Machine Learning OR MATH-UA 235 Probability and Statistics One of the following: • CS-UY 4563 Machine Learning • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis One of the following: • CS-UH 2220 Machine Learning • ENGR-UH 3332 Applied Machine Learning • ENGR-UH 2010Q Probability and Statistics for Engineers • MATH-UH 2011Q Probability and Statistics",
+      "columns": {
+        "#": "19.0",
+        "department": "Data Science",
+        "sh course": "DATS-SHU 369 Machine Learning with Graphs",
+        "sh prerequsites": "One of the following: • CSCI-SHU 360 Machine Learning • MATH-SHU 235 Probability and Statistic • BUSF-SHU 101 Statistics for Business and Economics • MATH-SHU 238 Theory of Probability",
+        "ny courant/cas prerequsites": "CSCI-U 473 Machine Learning OR MATH-UA 235 Probability and Statistics",
+        "ny tandon prerequsites": "One of the following: • CS-UY 4563 Machine Learning • ECE-UY 2233 Intro to Probability • MA-UY 2233 Intro to Probability • MA-UY 2224 Data Analysis",
+        "ad prerequsites": "One of the following: • CS-UH 2220 Machine Learning • ENGR-UH 3332 Applied Machine Learning • ENGR-UH 2010Q Probability and Statistics for Engineers • MATH-UH 2011Q Probability and Statistics"
+      }
+    },
+    {
+      "course_code": "DATS-SHU 377",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "20.0 Data Science DATS-SHU 377 Computer Vision CSCI-SHU 360 Machine Learning CSCI-U 473 Machine Learning CS-UY 4563 Machine Learning CS-UH 2220 Machine Learning OR ENGR-UH 3332 Applied Machine Learning",
+      "columns": {
+        "#": "20.0",
+        "department": "Data Science",
+        "sh course": "DATS-SHU 377 Computer Vision",
+        "sh prerequsites": "CSCI-SHU 360 Machine Learning",
+        "ny courant/cas prerequsites": "CSCI-U 473 Machine Learning",
+        "ny tandon prerequsites": "CS-UY 4563 Machine Learning",
+        "ad prerequsites": "CS-UH 2220 Machine Learning OR ENGR-UH 3332 Applied Machine Learning"
+      }
+    },
+    {
+      "course_code": "CENG-SHU 201",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "21.0 Computer Engineering CENG-SHU 201 Digital Logic CSCI-SHU 101 Introduction to Computer and Data Science OR CSCI-SHU 11 Intro to Computer Programming with a grade of A- CSCI-UA 2 Introduction to Computer Programming with a grade of A- OR CSCI-UA 101 Introduction to Computer Science CS-UY 1114 Introduction to Programming and Problem Solving with a grade of A- OR CS-UY 1122 Introduction to Computer Science CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+      "columns": {
+        "#": "21.0",
+        "department": "Computer Engineering",
+        "sh course": "CENG-SHU 201 Digital Logic",
+        "sh prerequsites": "CSCI-SHU 101 Introduction to Computer and Data Science OR CSCI-SHU 11 Intro to Computer Programming with a grade of A-",
+        "ny courant/cas prerequsites": "CSCI-UA 2 Introduction to Computer Programming with a grade of A- OR CSCI-UA 101 Introduction to Computer Science",
+        "ny tandon prerequsites": "CS-UY 1114 Introduction to Programming and Problem Solving with a grade of A- OR CS-UY 1122 Introduction to Computer Science",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers"
+      }
+    },
+    {
+      "course_code": "CENG-SHU 202",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "22.0 Computer Engineering CENG-SHU 202 Computer Architecture CSCI-SHU 101 Introduction to Computer and Data Science OR CSCI-SHU 11 Intro to Computer Programming with a grade of A- CSCI-UA 2 Introduction to Computer Programming with a grade of A- OR CSCI-UA 101 Introduction to Computer Science CS-UY 1114 Introduction to Programming and Problem Solving with a grade of A- OR CS-UY 1122 Introduction to Computer Science CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers",
+      "columns": {
+        "#": "22.0",
+        "department": "Computer Engineering",
+        "sh course": "CENG-SHU 202 Computer Architecture",
+        "sh prerequsites": "CSCI-SHU 101 Introduction to Computer and Data Science OR CSCI-SHU 11 Intro to Computer Programming with a grade of A-",
+        "ny courant/cas prerequsites": "CSCI-UA 2 Introduction to Computer Programming with a grade of A- OR CSCI-UA 101 Introduction to Computer Science",
+        "ny tandon prerequsites": "CS-UY 1114 Introduction to Programming and Problem Solving with a grade of A- OR CS-UY 1122 Introduction to Computer Science",
+        "ad prerequsites": "CS-UH 1001 Introduction to Computer Science OR ENGR-UH 1000 Computer Programming for Engineers"
+      }
+    },
+    {
+      "course_code": "CENG-SHU 352",
+      "source_sheet": "Shanghai",
+      "source_scope": "shanghai",
+      "course_text": "23.0 Computer Engineering CENG-SHU 352 Emerging Technologies for Smart Cities None None None None",
+      "columns": {
+        "#": "23.0",
+        "department": "Computer Engineering",
+        "sh course": "CENG-SHU 352 Emerging Technologies for Smart Cities",
+        "sh prerequsites": "None",
+        "ny courant/cas prerequsites": "None",
+        "ny tandon prerequsites": "None",
+        "ad prerequsites": "None"
+      }
+    }
+  ]
+}

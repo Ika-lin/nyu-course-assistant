@@ -1,0 +1,146 @@
+{
+  "CSCI-UA 480": {
+    "course_name": "Machine Learning",
+    "history": [
+      {
+        "term": "Fall 2025",
+        "sections": 3,
+        "total_seats": 120,
+        "enrollment": 118,
+        "waitlist": 15,
+        "status": "满员"
+      },
+      {
+        "term": "Spring 2025",
+        "sections": 2,
+        "total_seats": 80,
+        "enrollment": 80,
+        "waitlist": 8,
+        "status": "满员"
+      },
+      {
+        "term": "Fall 2024",
+        "sections": 2,
+        "total_seats": 80,
+        "enrollment": 76,
+        "waitlist": 0,
+        "status": "有余位"
+      }
+    ],
+    "typical_terms": ["Fall", "Spring"],
+    "popularity": "极高",
+    "recommendation": "热门课程，建议提前规划，Fall学期座位更多"
+  },
+  "CSCI-UA 473": {
+    "course_name": "Computer Vision",
+    "history": [
+      {
+        "term": "Fall 2025",
+        "sections": 2,
+        "total_seats": 80,
+        "enrollment": 75,
+        "waitlist": 3,
+        "status": "接近满员"
+      },
+      {
+        "term": "Spring 2025",
+        "sections": 1,
+        "total_seats": 40,
+        "enrollment": 40,
+        "waitlist": 5,
+        "status": "满员"
+      },
+      {
+        "term": "Fall 2024",
+        "sections": 2,
+        "total_seats": 80,
+        "enrollment": 68,
+        "waitlist": 0,
+        "status": "有余位"
+      }
+    ],
+    "typical_terms": ["Fall", "Spring"],
+    "popularity": "高",
+    "recommendation": "Fall学期开课更稳定，Spring可能只开1个section"
+  },
+  "CSCI-UA 467": {
+    "course_name": "Natural Language Processing",
+    "history": [
+      {
+        "term": "Spring 2025",
+        "sections": 1,
+        "total_seats": 40,
+        "enrollment": 38,
+        "waitlist": 0,
+        "status": "有余位"
+      },
+      {
+        "term": "Fall 2024",
+        "sections": 1,
+        "total_seats": 40,
+        "enrollment": 35,
+        "waitlist": 0,
+        "status": "有余位"
+      }
+    ],
+    "typical_terms": ["Fall", "Spring"],
+    "popularity": "中",
+    "recommendation": "通常不会满员，可以作为备选"
+  },
+  "MATH-UA 140": {
+    "course_name": "Linear Algebra",
+    "history": [
+      {
+        "term": "Fall 2025",
+        "sections": 8,
+        "total_seats": 320,
+        "enrollment": 305,
+        "waitlist": 0,
+        "status": "有余位"
+      },
+      {
+        "term": "Spring 2025",
+        "sections": 8,
+        "total_seats": 320,
+        "enrollment": 298,
+        "waitlist": 0,
+        "status": "有余位"
+      },
+      {
+        "term": "Fall 2024",
+        "sections": 8,
+        "total_seats": 320,
+        "enrollment": 310,
+        "waitlist": 0,
+        "status": "有余位"
+      }
+    ],
+    "typical_terms": ["Fall", "Spring"],
+    "popularity": "中",
+    "recommendation": "每学期都开，座位充足，不用担心选不上"
+  },
+  "CSCI-UA 101": {
+    "course_name": "Introduction to Computer Science",
+    "history": [
+      {
+        "term": "Fall 2025",
+        "sections": 12,
+        "total_seats": 480,
+        "enrollment": 465,
+        "waitlist": 0,
+        "status": "有余位"
+      },
+      {
+        "term": "Spring 2025",
+        "sections": 10,
+        "total_seats": 400,
+        "enrollment": 385,
+        "waitlist": 0,
+        "status": "有余位"
+      }
+    ],
+    "typical_terms": ["Fall", "Spring"],
+    "popularity": "高（但座位多）",
+    "recommendation": "入门课，每学期都开，座位充足"
+  }
+}

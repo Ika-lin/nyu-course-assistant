@@ -1,0 +1,893 @@
+{
+  "Computer Science": {
+    "school": "NYU Shanghai",
+    "declaration_prerequisites": {
+      "MATH-SHU 131": "Calculus (or placement exam)",
+      "CSCI-SHU 11": "Intro to Computer Programming (or CSCI-SHU 101, or placement exam)"
+    },
+    "core_courses": [
+      "CSCI-SHU 101",
+      "CSCI-SHU 210",
+      "MATH-SHU 235",
+      "CENG-SHU 202",
+      "CSCI-SHU 220"
+    ],
+    "before_study_away": [
+      "CSCI-SHU 101",
+      "CSCI-SHU 210",
+      "MATH-SHU 235",
+      "CENG-SHU 202",
+      "CSCI-SHU 220"
+    ],
+    "capstone": {
+      "primary_major": "CSCI-SHU 420 (4 credits, Fall only, in-person Shanghai)",
+      "secondary_major": "CS capstone equivalent (4 credits)"
+    },
+    "electives": {
+      "count": "Multiple electives required",
+      "areas": [
+        "Artificial Intelligence",
+        "Game Programming",
+        "Natural Language Processing",
+        "Information Visualization",
+        "Security and Privacy",
+        "Computer Networking",
+        "Machine Learning",
+        "Smartphone Application Development"
+      ]
+    },
+    "independent_study": {
+      "allowed": true,
+      "requirements": "3.0 overall GPA, 3.5 CS GPA, faculty approval",
+      "counts_as": "One CS major elective"
+    },
+    "double_major_restrictions": {
+      "data_science": "Not permitted for students matriculating Fall 2022 or later"
+    },
+    "double_counting": "Max 2 courses between majors, each major needs 7 singly-counted courses"
+  },
+  "Data Science": {
+    "school": "NYU Shanghai",
+    "declaration_prerequisites": {
+      "MATH-SHU 131": "Calculus (minimum grade: C)",
+      "CSCI-SHU 11 or CSCI-SHU 101": "Programming (minimum grade: C)"
+    },
+    "foundational_math": [
+      "MATH-SHU 140",
+      "MATH-SHU 151",
+      "MATH-SHU 235"
+    ],
+    "core_cs": [
+      "CSCI-SHU 101",
+      "CSCI-SHU 210",
+      "CSCI-SHU 213",
+      "CSCI-SHU 360"
+    ],
+    "data_analysis": [
+      "ECON-SHU 301"
+    ],
+    "before_study_away": [
+      "CSCI-SHU 101",
+      "CSCI-SHU 210",
+      "ECON-SHU 301",
+      "MATH-SHU 235",
+      "MATH-SHU 151",
+      "CSCI-SHU 360"
+    ],
+    "concentrations": {
+      "options": [
+        "Finance",
+        "Marketing",
+        "Economics",
+        "Mathematics",
+        "Political Science",
+        "Psychology",
+        "Genomics"
+      ],
+      "note": "Each concentration has specific additional requirements"
+    },
+    "capstone": {
+      "primary_major": "DATS-SHU 420 Senior Project (4 credits, Fall only, in-person Shanghai)",
+      "secondary_major": "3-4 credit course from DS AI Concentration OR Econ/Business Honors (4 credits)"
+    },
+    "double_major_restrictions": {
+      "computer_science": "Not permitted for students matriculating Fall 2022 or later"
+    }
+  },
+  "Business and Finance": {
+    "school": "NYU Shanghai",
+    "core_areas": [
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Statistics"
+    ],
+    "note": "Detailed requirements available in academic bulletin"
+  },
+  "Mathematics": {
+    "school": "NYU Shanghai",
+    "core_courses": [
+      "MATH-SHU 131",
+      "MATH-SHU 140",
+      "MATH-SHU 151",
+      "MATH-SHU 235"
+    ],
+    "note": "Additional advanced math courses required"
+  },
+  "Interactive Media Arts": {
+    "school": "NYU Shanghai",
+    "core_areas": [
+      "Programming",
+      "Design",
+      "Media Theory",
+      "Interactive Projects"
+    ],
+    "note": "Portfolio-based major with project requirements"
+  },
+  "Economics": {
+    "school": "NYU Shanghai",
+    "core_courses": [
+      "ECON-SHU 1",
+      "ECON-SHU 2",
+      "ECON-SHU 301"
+    ],
+    "math_requirements": [
+      "MATH-SHU 131",
+      "MATH-SHU 235"
+    ],
+    "note": "Additional economics electives required"
+  },
+  "Core Curriculum": {
+    "version": "Fall 2021 or Later",
+    "total_credits": "40-49 credits (varies by language requirement)",
+    "categories": {
+      "Social and Cultural Foundations": {
+        "total_credits": 16,
+        "courses": {
+          "GPS": {
+            "name": "Global Perspectives on Society",
+            "credits": 4,
+            "required": true
+          },
+          "PoH": {
+            "name": "Perspectives on the Humanities",
+            "credits": 4,
+            "required": true,
+            "note": "Satisfies both Social/Cultural Foundations AND Writing requirement"
+          },
+          "IPC 1": {
+            "name": "Interdisciplinary Perspectives on China 1",
+            "credits": 4,
+            "required": true
+          },
+          "IPC 2": {
+            "name": "Interdisciplinary Perspectives on China 2",
+            "credits": 4,
+            "required": true
+          }
+        }
+      },
+      "Writing": {
+        "total_credits": 8,
+        "courses": {
+          "WAI": {
+            "name": "Writing as Inquiry",
+            "credits": 4,
+            "required": true
+          },
+          "PoH": {
+            "name": "Perspectives on the Humanities",
+            "credits": 4,
+            "required": true,
+            "note": "Same course as in Social/Cultural Foundations"
+          }
+        }
+      },
+      "Mathematics": {
+        "total_credits": 4,
+        "requirement": "One 4-credit Math course OR placement into Calculus",
+        "placement_options": [
+          "AP Calculus (4+)",
+          "IB Math (6+)",
+          "A Level Math (B+)",
+          "NYU Shanghai placement exam"
+        ],
+        "typical_courses": [
+          "MATH-SHU 131 Calculus"
+        ]
+      },
+      "Science": {
+        "total_credits": "8-9",
+        "components": {
+          "Experimental Discovery (ED)": {
+            "credits": "4-5",
+            "options": [
+              "One 4-credit ED course",
+              "3-credit Foundations of Science Lecture + 2-credit Lab"
+            ]
+          },
+          "Science, Technology, and Society (STS)": {
+            "credits": 4,
+            "required": true
+          }
+        }
+      },
+      "Algorithmic Thinking": {
+        "total_credits": 4,
+        "requirement": "One 4-credit course from AT category",
+        "placement_options": [
+          "AP Computer Science A (4+)",
+          "IB Computer Science HL (6+)",
+          "NYU Shanghai placement exam"
+        ],
+        "typical_courses": [
+          "CSCI-SHU 11 Introduction to Computer Programming",
+          "CSCI-SHU 101 Introduction to Computer Science"
+        ]
+      },
+      "Language": {
+        "total_credits": "0-16",
+        "requirements": {
+          "Chinese students": {
+            "requirement": "English for Academic Purposes (EAP)",
+            "credits": 8
+          },
+          "Non-Chinese students": {
+            "requirement": "Pass or place out of Intermediate Chinese II",
+            "credits": "0-16 (depending on placement)"
+          }
+        }
+      }
+    },
+    "legacy_version": {
+      "version": "Before Fall 2021",
+      "difference": "Social and Cultural Foundations uses SSPC and HPC instead of IPC 1 and IPC 2",
+      "courses": {
+        "SSPC": "Social Science Perspectives on China (4 credits)",
+        "HPC": "Humanistic Perspectives on China (4 credits)"
+      }
+    },
+    "notes": [
+      "PoH course counts for both Social/Cultural Foundations and Writing (8 credits total, not 16)",
+      "Math requirement can be fulfilled by placement exam",
+      "Algorithmic Thinking can be fulfilled by placement exam",
+      "Language requirement varies significantly by student background"
+    ],
+    "shanghai_courses": {
+      "Algorithmic Thinking": {
+        "count": 8,
+        "courses": [
+          {
+            "code": "BUSF-SHU 210",
+            "title": "Business Analytics",
+            "prerequisites": "prereq for BUSF-SHU 210AB is BUSF-SHU 101 Statistics for Business & Econ or MATH-SHU 234 Mathematical Statistics or MATH-SHU 235 Probability and Statistics and sophomore standing or above."
+          },
+          {
+            "code": "CSCI-SHU 11",
+            "title": "Introduction to Computer Programming",
+            "prerequisites": "C in Precalculus or pass Calculus placement test. Open to NYU shanghai students only."
+          },
+          {
+            "code": "CSCI-SHU 101",
+            "title": "Introduction to Computer Science",
+            "prerequisites": "Prerequisite: CSCI-SHU 11 Introduction to Computer Programming or placement exam"
+          },
+          {
+            "code": "ECON-SHU 301",
+            "title": "Econometrics",
+            "prerequisites": "Prereq for ECON-SHU 301 is Statistics (BUSF-SHU 101 or MATH-SHU 233 or MATH-SHU 234 or MATH-SHU 235 or MATH-SHU 238 or SOCS-SHU 210 or SOCSC-UH 1010Q or ECON-UA 18 or ECON-UA 20 or STAT-UB 1 or STAT-UB 103 or an equivalent statistics course.)"
+          },
+          {
+            "code": "INTM-SHU 103",
+            "title": "Creative Coding Lab",
+            "prerequisites": "None"
+          },
+          {
+            "code": "INTM-SHU 101",
+            "title": "Interaction Lab",
+            "prerequisites": "None"
+          },
+          {
+            "code": "PHIL-SHU 70",
+            "title": "Logic",
+            "prerequisites": "None"
+          },
+          {
+            "code": "SOCS-SHU 190",
+            "title": "Introduction to the Computational Social Science Methods",
+            "prerequisites": "None"
+          }
+        ]
+      },
+      "Experimental Discovery in the Natural World": {
+        "count": 10,
+        "courses": [
+          {
+            "code": "BIOL-SHU 123",
+            "title": "Foundations of Biology Lab",
+            "prerequisites": "Pre-req or Co-req for BIOL-SHU 123 is (MATH-SHU 131 Calculus or MATH-SHU 123 Multivariable Calculus or MATH-SHU 201 Honors Calculus) and BIOL-SHU 21 Foundations of Biology I."
+          },
+          {
+            "code": "CCEX-SHU 128",
+            "title": "Chemistry of Food and Drugs",
+            "prerequisites": "Anti-requisite for CCEX-SHU 128 is students who have completed BIOL-SHU 21 Foundations of Biology 1 or CHEM-SHU 125 Foundations of Chemistry 1 are not eligible."
+          },
+          {
+            "code": "CCEX-SHU 170",
+            "title": "While You Were Sleeping",
+            "prerequisites": "None"
+          },
+          {
+            "code": "CENG-SHU 201",
+            "title": "Digital Logic",
+            "prerequisites": "Prereq for CENG-SHU 201 is CSCI-SHU 101 ICDS or CSCI-SHU 11 ICP or INTM-SHU 101 interaction Lab."
+          },
+          {
+            "code": "CHEM-SHU 125",
+            "title": "Foundations of Chemistry I",
+            "prerequisites": "Prereq or Coreq for CHEN-SHU 125 is MATH-SHU 131 Calculus or MATH-SHU 201 Honors Calculus."
+          },
+          {
+            "code": "CHEM-SHU 127",
+            "title": "Foundations of Chemistry I Lab",
+            "prerequisites": "Prereq or coreq for CHEM-SHU 127 is CHEM-SHU 125 Foundations of Chemistry I."
+          },
+          {
+            "code": "PHYS-SHU 91",
+            "title": "Foundations of Physics I Honors",
+            "prerequisites": "Pre-req for PHYS-SHU 91 is MATH-SHU 131 Calculus or MATH-SHU 201 Honors Calculus. Anti-requisite: Students who have taken PHYS-SHU 11 General Physics I are not eligible."
+          },
+          {
+            "code": "PHYS-SHU 71",
+            "title": "Foundations of Physics Lab I",
+            "prerequisites": "Prereq or coreq for PHYS-SHU 71 is PHYS-SHU 11 General Physics I or PHYS-SHU 91 Found of Physics I Honors."
+          },
+          {
+            "code": "PHYS-SHU 11",
+            "title": "General Physics I",
+            "prerequisites": "Prereq or coreq for PHYS-SHU 11 is MATH-SHU 131 Calculus or MATH-SHU 201 Honors Calculus. Anti-Requisite: Students who have taken PHYS-SHU 91 Physics I Honors with grade of C or above are not eligible."
+          },
+          {
+            "code": "PSYC-SHU 101",
+            "title": "Introduction to Psychology",
+            "prerequisites": "None"
+          }
+        ]
+      },
+      "GPS": {
+        "count": 1,
+        "courses": [
+          {
+            "code": "CCSF-SHU 101L",
+            "title": "Global Perspectives on Society",
+            "prerequisites": "Shanghai home student only"
+          }
+        ]
+      },
+      "Interdisciplinary Perspectives on China": {
+        "count": 18,
+        "courses": [
+          {
+            "code": "ECON-SHU 239",
+            "title": "China’s Economic Transition",
+            "prerequisites": "None"
+          },
+          {
+            "code": "ECON-SHU 221",
+            "title": "China’s Financial System",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 210",
+            "title": "China Encounters the World",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 243",
+            "title": "China and the Environment",
+            "prerequisites": "Prereq for GCHN-SHU 243 is passing grade of Global Perspectives on Society"
+          },
+          {
+            "code": "GCHN-SHU 165",
+            "title": "China and the Islamic World, c.600AD-Present",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 180",
+            "title": "Chinese Gardens and Landscape Art",
+            "prerequisites": "Prereq for GCHN-SHU 180 is not appropriate for first-year, first-semester students"
+          },
+          {
+            "code": "GCHN-SHU 123",
+            "title": "Contemporary Chinese Political Thought",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 250",
+            "title": "Geographies of China",
+            "prerequisites": "Prereq for GCHN-SHU 250 is GPS"
+          },
+          {
+            "code": "GCHN-SHU 311",
+            "title": "Global Connections: Shanghai",
+            "prerequisites": "Prereq for SCA-SHU 9634 is Sophomore Standing"
+          },
+          {
+            "code": "GCHN-SHU 102",
+            "title": "History of Modern China Since 1840",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 205",
+            "title": "Hong Kong Cinema",
+            "prerequisites": "Prereq for GCHN-SHU 205 is GPS or sophomore standing (or not open to first semester students)."
+          },
+          {
+            "code": "GCHN-SHU 101",
+            "title": "Introduction to Chinese Civilization",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 318",
+            "title": "Sex and Power in China, 1500–1950",
+            "prerequisites": "Prereq for GCHN-SHU 318 is CHIN-SHU 201 Intermediate Chinese I or native speakers"
+          },
+          {
+            "code": "GCHN-SHU 111",
+            "title": "Shanghai Stories",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 164",
+            "title": "The History of the Silk Road",
+            "prerequisites": "None"
+          },
+          {
+            "code": "PHIL-SHU 110",
+            "title": "Traditional Chinese Political and Legal Philosophy",
+            "prerequisites": "Prereq for PHIL-SHU 110 is GPS or Sophomore standing."
+          },
+          {
+            "code": "SOCS-SHU 254",
+            "title": "Ethnographies of Change in China",
+            "prerequisites": "None"
+          },
+          {
+            "code": "SOCS-SHU 275",
+            "title": "US-China Relations",
+            "prerequisites": "None"
+          }
+        ]
+      },
+      "Language": {
+        "count": 8,
+        "courses": [
+          {
+            "code": "CHIN-SHU 301",
+            "title": "Advanced Chinese I",
+            "prerequisites": "Prerequisite for CHIN-SHU 301 is CHIN-SHU 202 OR equivalent course"
+          },
+          {
+            "code": "CHIN-SHU 301A",
+            "title": "Advanced Chinese I for Heritage Learners",
+            "prerequisites": "Prereq for CHIN-SHU 301A is CHIN-SHU 211 or the equivalent"
+          },
+          {
+            "code": "CHIN-SHU 302",
+            "title": "Advanced Chinese II",
+            "prerequisites": "Prerequisite for CHIN-SHU 302 is CHIN-SHU 301 OR EAST-UA 205 OR EAST-UA 9205 OR CHINL-AD 301"
+          },
+          {
+            "code": "CHIN-SHU 202",
+            "title": "Intermediate Chinese II",
+            "prerequisites": "Prerequisite for CHIN-SHU 202 is CHIN-SHU 201 OR EAST-UA 203 OR EAST-UA 9203 OR CHINL-AD 201 or CHIN-SHU 201S2"
+          },
+          {
+            "code": "CHIN-SHU 211",
+            "title": "Intermediate Chinese for Advanced Beginners",
+            "prerequisites": "Prerequisite for CHIN-SHU 211 is CHIN-SHU 111"
+          },
+          {
+            "code": "CHIN-SHU 403",
+            "title": "Interpreting Modern China: Reading the Era of 1919-1949",
+            "prerequisites": "Prereq for CHIN-SHU 403 is CHIN-SHU 302 OR EAST-UA 206 OR EAST-UA 9206 OR CHINL-UH 3002 OR place put of advanced Chinese II."
+          },
+          {
+            "code": "CHIN-SHU 405",
+            "title": "Reading Chinese Newspapers",
+            "prerequisites": "Prereq for CHIN-SHU 405 is CHIN-SHU 302 Advanced Chinese II or place our of Advanced Chinese 2."
+          },
+          {
+            "code": "EAP-SHU 101",
+            "title": "English for Academic Purposes II",
+            "prerequisites": "None"
+          }
+        ]
+      },
+      "Math": {
+        "count": 2,
+        "courses": [
+          {
+            "code": "HIST-SHU 157",
+            "title": "A Global History of Mathematics",
+            "prerequisites": "None"
+          },
+          {
+            "code": "MATH-SHU 9",
+            "title": "Precalculus",
+            "prerequisites": "Anti-requisite for MATH-SHU 9: Students who have completed MATH-SHU 131 or above are not eligible."
+          }
+        ]
+      },
+      "Perspectives on the Humanities": {
+        "count": 1,
+        "courses": [
+          {
+            "code": "WRIT-SHU 201",
+            "title": "Perspectives on the Humanities",
+            "prerequisites": "Pre-req for WRIT-SHU 201: C or better in WRIT-SHU 101 or 102 Writing as Inquiry. Students cannot register for more than one section of PoH."
+          }
+        ]
+      },
+      "Science, Technology and Society": {
+        "count": 16,
+        "courses": [
+          {
+            "code": "BIOL-SHU 30",
+            "title": "Genetics",
+            "prerequisites": "Prereq for BIOL-SHU 30 is BIOL-SHU 22"
+          },
+          {
+            "code": "BIOL-SHU 261",
+            "title": "Genomics and Bioinformatics",
+            "prerequisites": "Prereq for BIOL-SHU 261 is that co-req/pre-req (one of Stats course NEUR-SHU 100 or MATH-SHU 235 or MATH-SHU 234 or BUSF-SHU 101) AND pre-req (CSCI-SHU 11 ICP or CSCI-SHU 101 ICDS)."
+          },
+          {
+            "code": "CENG-SHU 352",
+            "title": "Emerging Technologies for Smart Cities",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 243",
+            "title": "China and the Environment",
+            "prerequisites": "Prereq for GCHN-SHU 243 is passing grade of Global Perspectives on Society"
+          },
+          {
+            "code": "HIST-SHU 157",
+            "title": "A Global History of Mathematics",
+            "prerequisites": "None"
+          },
+          {
+            "code": "INTM-SHU 124",
+            "title": "Emerging Technologies & Computational Arts",
+            "prerequisites": "None"
+          },
+          {
+            "code": "NEUR-SHU 130",
+            "title": "Introduction to Linguistics: The Science of Human Language",
+            "prerequisites": "None"
+          },
+          {
+            "code": "NEUR-SHU 131",
+            "title": "Neural Bases of Speech and Language",
+            "prerequisites": "None"
+          },
+          {
+            "code": "PSYC-SHU 329",
+            "title": "Parenting and Culture",
+            "prerequisites": "Prereq for PSYC-SHU 329 is PSYC-SHU 101 Intro to Psychology or its equivalencies."
+          },
+          {
+            "code": "SOCS-SHU 244",
+            "title": "Anthropology of Mental Illness",
+            "prerequisites": "Prereq for SOCS-SHU 244 is Sophomore standing or above."
+          },
+          {
+            "code": "SOCS-SHU 135",
+            "title": "Environment and Society",
+            "prerequisites": "None"
+          },
+          {
+            "code": "SOCS-SHU 204",
+            "title": "Environmental System Science",
+            "prerequisites": "None"
+          },
+          {
+            "code": "SOCS-SHU 199",
+            "title": "Global Transportation",
+            "prerequisites": "None"
+          },
+          {
+            "code": "SOCS-SHU 170",
+            "title": "Introduction to Global Health",
+            "prerequisites": "None"
+          },
+          {
+            "code": "SOCS-SHU 334",
+            "title": "Legal Psychology",
+            "prerequisites": "Pre-req for SOCS-SHU 334 is PSYC-SHU 101 Intro to Psychology or its equivalency OR SOCS-SHU 220 Law and Society in the US."
+          },
+          {
+            "code": "SOCS-SHU 289",
+            "title": "Planet, Place, and Power: Spatial Reasoning for Our Complex World",
+            "prerequisites": "None"
+          }
+        ]
+      },
+      "Social Science Perspective on China": {
+        "count": 11,
+        "courses": [
+          {
+            "code": "ECON-SHU 218",
+            "title": "International Trade and the Chinese Economy",
+            "prerequisites": "Prereq for ECON-SHU 218 is Microeconomics and (Principles of Macroeconomics or EGB)."
+          },
+          {
+            "code": "GCHN-SHU 243",
+            "title": "China and the Environment",
+            "prerequisites": "Prereq for GCHN-SHU 243 is passing grade of Global Perspectives on Society"
+          },
+          {
+            "code": "GCHN-SHU 123",
+            "title": "Contemporary Chinese Political Thought",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 250",
+            "title": "Geographies of China",
+            "prerequisites": "Prereq for GCHN-SHU 250 is GPS"
+          },
+          {
+            "code": "GCHN-SHU 311",
+            "title": "Global Connections: Shanghai",
+            "prerequisites": "Prereq for SCA-SHU 9634 is Sophomore Standing"
+          },
+          {
+            "code": "GCHN-SHU 101",
+            "title": "Introduction to Chinese Civilization",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 164",
+            "title": "The History of the Silk Road",
+            "prerequisites": "None"
+          },
+          {
+            "code": "PHIL-SHU 110",
+            "title": "Traditional Chinese Political and Legal Philosophy",
+            "prerequisites": "Prereq for PHIL-SHU 110 is GPS or Sophomore standing."
+          },
+          {
+            "code": "SOCS-SHU 254",
+            "title": "Ethnographies of Change in China",
+            "prerequisites": "None"
+          },
+          {
+            "code": "SOCS-SHU 275",
+            "title": "US-China Relations",
+            "prerequisites": "None"
+          },
+          {
+            "code": "SOCS-SHU 133",
+            "title": "Urbanization in China",
+            "prerequisites": "None"
+          }
+        ]
+      },
+      "Humanistic Perspectives on China/China Arts-HPC/CA": {
+        "count": 11,
+        "courses": [
+          {
+            "code": "GCHN-SHU 210",
+            "title": "China Encounters the World",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 165",
+            "title": "China and the Islamic World, c.600AD-Present",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 123",
+            "title": "Contemporary Chinese Political Thought",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 311",
+            "title": "Global Connections: Shanghai",
+            "prerequisites": "Prereq for SCA-SHU 9634 is Sophomore Standing"
+          },
+          {
+            "code": "GCHN-SHU 102",
+            "title": "History of Modern China Since 1840",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 205",
+            "title": "Hong Kong Cinema",
+            "prerequisites": "Prereq for GCHN-SHU 205 is GPS or sophomore standing (or not open to first semester students)."
+          },
+          {
+            "code": "GCHN-SHU 101",
+            "title": "Introduction to Chinese Civilization",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 111",
+            "title": "Shanghai Stories",
+            "prerequisites": "None"
+          },
+          {
+            "code": "GCHN-SHU 164",
+            "title": "The History of the Silk Road",
+            "prerequisites": "None"
+          },
+          {
+            "code": "PHIL-SHU 110",
+            "title": "Traditional Chinese Political and Legal Philosophy",
+            "prerequisites": "Prereq for PHIL-SHU 110 is GPS or Sophomore standing."
+          },
+          {
+            "code": "SOCS-SHU 254",
+            "title": "Ethnographies of Change in China",
+            "prerequisites": "None"
+          }
+        ]
+      }
+    },
+    "study_away_equivalents": {
+      "note": "These NY courses can satisfy Shanghai Core requirements during Study Away",
+      "categories": {}
+    }
+  },
+  "Minors": {
+    "Computer Science": {
+      "total_credits": 16,
+      "core_requirements": {
+        "CSCI-SHU 101": "Introduction to Computer and Data Science (4 credits)",
+        "CSCI-SHU 210": "Data Structures (4 credits)",
+        "architecture_choice": {
+          "credits": 4,
+          "options": [
+            "CENG-SHU 202 Computer Architecture",
+            "CSCI-UA 201 Computer Systems Organization",
+            "CENG-SHU 350 Embedded Computer Systems"
+          ]
+        }
+      },
+      "elective": {
+        "credits": 4,
+        "requirement": "One CS elective (non-soft interdisciplinary CS electives cannot fulfill)"
+      },
+      "special_notes": {
+        "data_science_majors": "Must take additional approved non-soft interdisciplinary CS elective for 12 unique credits"
+      }
+    },
+    "Data Science": {
+      "total_credits": 20,
+      "core_requirements": {
+        "CSCI-SHU 101": "Introduction to Computer Science (4 credits)",
+        "CSCI-SHU 210": "Data Structures (4 credits)",
+        "CSCI-SHU 360": "Machine Learning (4 credits)"
+      },
+      "statistics_econometrics": {
+        "credits": 4,
+        "choose_one": [
+          "ECON-SHU 301 Econometrics",
+          "MATH-SHU 234 Mathematical Statistics"
+        ]
+      },
+      "probability_research": {
+        "credits": 4,
+        "choose_one": [
+          "BUSF-SHU 101 Statistics for Business and Economics",
+          "MATH-SHU 235 Probability and Statistics",
+          "MATH-SHU 238 Honors Theory of Probability",
+          "SOCS-SHU 141 Methods of Social Research"
+        ]
+      },
+      "special_notes": {
+        "cs_majors": "Must earn 12 unique credits. Take CSCI-SHU 235 Information Visualization OR CSCI-SHU 213 Databases"
+      }
+    },
+    "Business": {
+      "total_credits": "16-20",
+      "note": "See business minor page for detailed requirements"
+    },
+    "Mathematics": {
+      "total_credits": 16,
+      "total_courses": 4,
+      "requirement": "Any 4 Math major courses",
+      "excluded_courses": [
+        "MATH-SHU 9 Precalculus",
+        "MATH-SHU 10 Quantitative Reasoning: Great Ideas in Mathematics",
+        "MATH-SHU 265 Linear Algebra and Differential Equation"
+      ],
+      "eligible_courses": [
+        "MATH-SHU 131 Calculus",
+        "MATH-SHU 140 Linear Algebra",
+        "MATH-SHU 151 Multivariable Calculus",
+        "MATH-SHU 201 Honors Calculus",
+        "MATH-SHU 233 Theory of Probability",
+        "MATH-SHU 234 Mathematical Statistics",
+        "MATH-SHU 235 Probability and Statistics",
+        "MATH-SHU 238 Honors Theory of Probability",
+        "Other Math major courses"
+      ],
+      "note": "Any Math major courses except the 3 excluded courses"
+    },
+    "Economics": {
+      "total_credits": "16-20",
+      "core_courses": [
+        "ECON-SHU 1 Principles of Microeconomics",
+        "ECON-SHU 2 Principles of Macroeconomics"
+      ],
+      "note": "Additional economics electives required"
+    },
+    "Interactive Media Arts": {
+      "total_credits": 16,
+      "foundation_courses": {
+        "credits": 8,
+        "choose": 2,
+        "options": [
+          "INTM-SHU 101 Interaction Lab",
+          "INTM-SHU 103 Creative Coding Lab",
+          "INTM-SHU 110 Application Lab (before Fall 2023)",
+          "INTM-SHU 120 Communications Lab",
+          "INTM-SHU 205 What is New Media?"
+        ]
+      },
+      "electives": {
+        "credits": 8,
+        "requirement": "2 IMA electives (4 credits each)",
+        "note": "Available elective courses on Albert"
+      },
+      "faculty_mentors": [
+        "Marcela Godoy",
+        "Leon Eckert"
+      ]
+    },
+    "Physics": {
+      "total_credits": "16-20",
+      "note": "Physics courses and lab requirements"
+    },
+    "Chemistry": {
+      "total_credits": "16-20",
+      "note": "Chemistry courses and lab requirements"
+    },
+    "Neural Science": {
+      "total_credits": "16-20",
+      "note": "Interdisciplinary neuroscience courses"
+    },
+    "available_minors": [
+      "Business",
+      "Chemistry",
+      "Chinese",
+      "Computer Science",
+      "Computer Systems Engineering",
+      "Creative Writing",
+      "Creativity + Innovation",
+      "Data Science",
+      "Economics",
+      "Electrical and Systems Engineering",
+      "Global China Studies",
+      "Genomics and Bioinformatics",
+      "Humanities",
+      "History",
+      "Interactive Media Arts",
+      "Interactive Media and Business",
+      "Literature",
+      "Mathematics",
+      "Molecular and Cell Biology",
+      "Neural Science",
+      "Philosophy",
+      "Physics",
+      "Social Science"
+    ],
+    "cross_school_minors": {
+      "available": true,
+      "source": "NYU New York cross-school minors",
+      "url": "https://www.nyu.edu/students/academic-services/undergraduate-advisement/unique-academic-opportunities/cross-school-minors/cross-school-minors-by-school.html"
+    }
+  }
+}

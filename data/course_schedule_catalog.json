@@ -1,0 +1,256 @@
+{
+  "source": "demo_schedule_catalog.json",
+  "description": "Semester offering data with meeting times, formats, seats, preference tags, and career relevance for schedule generation.",
+  "terms": {
+    "Fall 2026": [
+      {
+        "course_code": "ECON-SHU 301",
+        "title": "Econometrics",
+        "campus": "Shanghai",
+        "credits": 4,
+        "requirement_tags": ["Data Science Data Analysis", "Study Away readiness"],
+        "career_tags": ["Data Scientist", "Quantitative Analyst", "ML Evaluation"],
+        "prerequisites": ["MATH-SHU 235"],
+        "sections": [
+          {
+            "section": "001",
+            "instructor": "Prof. Chen",
+            "days": ["M", "W"],
+            "start": "09:30",
+            "end": "10:45",
+            "location": "AB 305",
+            "format": "In Person",
+            "seats_total": 36,
+            "seats_available": 8
+          },
+          {
+            "section": "003",
+            "instructor": "Prof. Huang",
+            "days": ["T", "R"],
+            "start": "15:30",
+            "end": "16:45",
+            "location": "AB 410",
+            "format": "In Person",
+            "seats_total": 30,
+            "seats_available": 9
+          },
+          {
+            "section": "002",
+            "instructor": "Prof. Liu",
+            "days": ["T", "R"],
+            "start": "14:00",
+            "end": "15:15",
+            "location": "AB 401",
+            "format": "Hybrid",
+            "seats_total": 32,
+            "seats_available": 5
+          }
+        ],
+        "preference_tags": ["quantitative", "career-relevant", "research"]
+      },
+      {
+        "course_code": "CSCI-SHU 213",
+        "title": "Databases",
+        "campus": "Shanghai",
+        "credits": 4,
+        "requirement_tags": ["Data Science Core CS", "Data Science Data Management"],
+        "career_tags": ["Data Engineer", "ML Engineer", "Backend/Data Systems"],
+        "prerequisites": ["CSCI-SHU 210"],
+        "sections": [
+          {
+            "section": "001",
+            "instructor": "Prof. Wang",
+            "days": ["M", "W"],
+            "start": "11:00",
+            "end": "12:15",
+            "location": "CC 201",
+            "format": "In Person",
+            "seats_total": 40,
+            "seats_available": 12
+          },
+          {
+            "section": "003",
+            "instructor": "Prof. Sun",
+            "days": ["T", "R"],
+            "start": "09:30",
+            "end": "10:45",
+            "location": "CC 218",
+            "format": "In Person",
+            "seats_total": 34,
+            "seats_available": 10
+          },
+          {
+            "section": "002",
+            "instructor": "Prof. Zhang",
+            "days": ["T", "R"],
+            "start": "09:30",
+            "end": "10:45",
+            "location": "CC 210",
+            "format": "Hybrid",
+            "seats_total": 36,
+            "seats_available": 7
+          }
+        ],
+        "preference_tags": ["project-based", "technical", "career-relevant"]
+      },
+      {
+        "course_code": "PHIL-UA 5",
+        "title": "Minds and Machines",
+        "campus": "New York",
+        "credits": 4,
+        "requirement_tags": ["Science, Technology and Society", "AI Ethics"],
+        "career_tags": ["Responsible AI", "AI Product", "Graduate School"],
+        "prerequisites": [],
+        "sections": [
+          {
+            "section": "NY01",
+            "instructor": "Prof. Anderson",
+            "days": ["T", "R"],
+            "start": "11:00",
+            "end": "12:15",
+            "location": "Online Synchronous",
+            "format": "Online",
+            "seats_total": 28,
+            "seats_available": 6
+          },
+          {
+            "section": "NY02",
+            "instructor": "Prof. Patel",
+            "days": ["M", "W"],
+            "start": "16:00",
+            "end": "17:15",
+            "location": "Online Synchronous",
+            "format": "Online",
+            "seats_total": 26,
+            "seats_available": 8
+          }
+        ],
+        "preference_tags": ["ai", "ethics", "online", "discussion"]
+      },
+      {
+        "course_code": "CSCI-UA 473",
+        "title": "Introduction to Machine Learning",
+        "campus": "New York",
+        "credits": 4,
+        "requirement_tags": ["Data Science Artificial Intelligence Concentration", "Computer Science Elective"],
+        "career_tags": ["ML Engineer", "AI Engineer", "Data Scientist"],
+        "prerequisites": ["CSCI-UA 310"],
+        "sections": [
+          {
+            "section": "NY01",
+            "instructor": "Prof. Moore",
+            "days": ["M", "W"],
+            "start": "15:30",
+            "end": "16:45",
+            "location": "60FA 314",
+            "format": "In Person",
+            "seats_total": 34,
+            "seats_available": 4
+          }
+        ],
+        "preference_tags": ["ai", "machine-learning", "technical"]
+      },
+      {
+        "course_code": "CSCI-UA 310",
+        "title": "Basic Algorithms",
+        "campus": "New York",
+        "credits": 4,
+        "requirement_tags": ["Computer Science Required Courses", "AI pathway prerequisite"],
+        "career_tags": ["Software Engineer", "ML Engineer", "Technical Interview"],
+        "prerequisites": ["CSCI-UA 102", "CSCI-UA 201"],
+        "sections": [
+          {
+            "section": "NY01",
+            "instructor": "Prof. Harris",
+            "days": ["M", "W"],
+            "start": "13:30",
+            "end": "14:45",
+            "location": "CIWW 102",
+            "format": "In Person",
+            "seats_total": 38,
+            "seats_available": 9
+          },
+          {
+            "section": "NY02",
+            "instructor": "Prof. Rivera",
+            "days": ["T", "R"],
+            "start": "17:00",
+            "end": "18:15",
+            "location": "Online Synchronous",
+            "format": "Online",
+            "seats_total": 30,
+            "seats_available": 3
+          }
+        ],
+        "preference_tags": ["technical", "interview-prep", "online-option"]
+      },
+      {
+        "course_code": "CSCI-UA 201",
+        "title": "Computer Systems Organization",
+        "campus": "New York",
+        "credits": 4,
+        "requirement_tags": ["Computer Science Required Courses", "Systems foundation"],
+        "career_tags": ["Software Engineer", "ML Infrastructure"],
+        "prerequisites": ["CSCI-UA 102"],
+        "sections": [
+          {
+            "section": "NY01",
+            "instructor": "Prof. Thomas",
+            "days": ["T", "R"],
+            "start": "12:30",
+            "end": "13:45",
+            "location": "60FA 150",
+            "format": "In Person",
+            "seats_total": 36,
+            "seats_available": 5
+          },
+          {
+            "section": "NY02",
+            "instructor": "Prof. Nguyen",
+            "days": ["M", "W"],
+            "start": "12:30",
+            "end": "13:45",
+            "location": "CIWW 202",
+            "format": "Hybrid",
+            "seats_total": 32,
+            "seats_available": 6
+          }
+        ],
+        "preference_tags": ["technical", "systems"]
+      }
+    ],
+    "Spring 2027": [
+      {
+        "course_code": "DATS-SHU 420",
+        "title": "Senior Project in Data Science",
+        "campus": "Shanghai",
+        "credits": 4,
+        "requirement_tags": ["Data Science Capstone"],
+        "career_tags": ["Portfolio", "Graduate School", "ML Engineer"],
+        "prerequisites": ["CSCI-SHU 360", "CSCI-SHU 213"],
+        "sections": [
+          {
+            "section": "001",
+            "instructor": "Prof. Li",
+            "days": ["F"],
+            "start": "13:30",
+            "end": "16:15",
+            "location": "CC Lab 302",
+            "format": "Project Studio",
+            "seats_total": 24,
+            "seats_available": 6
+          }
+        ],
+        "preference_tags": ["ai", "project-based", "portfolio"]
+      }
+    ]
+  },
+  "default_student_preferences": {
+    "career_goal": "AI / Machine Learning Engineer",
+    "preferred_tags": ["ai", "machine-learning", "project-based", "career-relevant", "online"],
+    "preferred_formats": ["Hybrid", "Online", "In Person"],
+    "avoid_times": [{ "days": ["M", "W", "F"], "before": "09:00" }],
+    "max_credits": 16,
+    "preferred_campuses": ["Shanghai", "New York"]
+  }
+}

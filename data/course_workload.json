@@ -1,0 +1,98 @@
+{
+  "course_difficulty": {
+    "CSCI-UA 480": {
+      "difficulty_rating": 4.5,
+      "weekly_hours": 12,
+      "workload_breakdown": {
+        "lectures": 3,
+        "homework": 6,
+        "project": 3
+      },
+      "peak_weeks": [8, 12, 14],
+      "description": "高难度，作业和project都很有挑战性"
+    },
+    "CSCI-UA 473": {
+      "difficulty_rating": 4.2,
+      "weekly_hours": 11,
+      "workload_breakdown": {
+        "lectures": 3,
+        "homework": 5,
+        "project": 3
+      },
+      "peak_weeks": [7, 11, 14],
+      "description": "难度较高，需要较强的数学和编程基础"
+    },
+    "CSCI-UA 467": {
+      "difficulty_rating": 3.8,
+      "weekly_hours": 10,
+      "workload_breakdown": {
+        "lectures": 3,
+        "homework": 4,
+        "project": 3
+      },
+      "peak_weeks": [9, 13],
+      "description": "中等难度，project占比大"
+    },
+    "CSCI-UA 310": {
+      "difficulty_rating": 4.0,
+      "weekly_hours": 10,
+      "workload_breakdown": {
+        "lectures": 3,
+        "homework": 5,
+        "project": 2
+      },
+      "peak_weeks": [6, 10, 14],
+      "description": "算法课，作业需要大量思考"
+    },
+    "MATH-UA 140": {
+      "difficulty_rating": 3.5,
+      "weekly_hours": 8,
+      "workload_breakdown": {
+        "lectures": 3,
+        "homework": 4,
+        "project": 1
+      },
+      "peak_weeks": [7, 14],
+      "description": "中等难度，作业量适中"
+    },
+    "MATH-UA 235": {
+      "difficulty_rating": 4.0,
+      "weekly_hours": 9,
+      "workload_breakdown": {
+        "lectures": 3,
+        "homework": 5,
+        "project": 1
+      },
+      "peak_weeks": [8, 14],
+      "description": "概率论，需要较强的数学基础"
+    },
+    "ECON-UA 266": {
+      "difficulty_rating": 3.2,
+      "weekly_hours": 7,
+      "workload_breakdown": {
+        "lectures": 3,
+        "homework": 3,
+        "project": 1
+      },
+      "peak_weeks": [7, 14],
+      "description": "难度适中，作业量较少"
+    },
+    "CSCI-UA 101": {
+      "difficulty_rating": 2.5,
+      "weekly_hours": 8,
+      "workload_breakdown": {
+        "lectures": 3,
+        "homework": 4,
+        "project": 1
+      },
+      "peak_weeks": [10, 14],
+      "description": "入门课，适合初学者"
+    }
+  },
+  "workload_thresholds": {
+    "light": { "max_hours": 35, "max_difficulty": 12 },
+    "moderate": { "max_hours": 45, "max_difficulty": 16 },
+    "heavy": { "max_hours": 55, "max_difficulty": 20 },
+    "overload": { "max_hours": 999, "max_difficulty": 999 }
+  }
+}

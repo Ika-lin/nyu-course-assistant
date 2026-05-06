@@ -1,0 +1,301 @@
+{
+  "reviews": [
+    {
+      "review_id": "r001",
+      "course_code": "CSCI-UA 480",
+      "student_name": "张三",
+      "student_year": "Class of 2027",
+      "term_taken": "Fall 2025",
+      "rating": 4.5,
+      "difficulty": 4.5,
+      "workload": "heavy",
+      "would_recommend": true,
+      "review_text": "Machine Learning这门课真的很有挑战性，但收获巨大。Ernest Davis教授讲课很清晰，但作业需要花很多时间。建议有扎实的数学基础再来上。",
+      "tags": ["challenging", "rewarding", "math-heavy"],
+      "helpful_count": 23,
+      "timestamp": "2025-12-15"
+    },
+    {
+      "review_id": "r002",
+      "course_code": "CSCI-UA 480",
+      "student_name": "李四",
+      "student_year": "Class of 2026",
+      "term_taken": "Spring 2025",
+      "rating": 5.0,
+      "difficulty": 4.0,
+      "workload": "moderate",
+      "would_recommend": true,
+      "review_text": "非常推荐！这门课让我对ML有了系统的理解。Project可以选自己感兴趣的方向，我做了一个图像分类项目，最后拿了A。",
+      "tags": ["project-based", "flexible", "practical"],
+      "helpful_count": 18,
+      "timestamp": "2025-05-20"
+    },
+    {
+      "review_id": "r003",
+      "course_code": "CSCI-UA 473",
+      "student_name": "王五",
+      "student_year": "Class of 2027",
+      "term_taken": "Fall 2025",
+      "rating": 4.0,
+      "difficulty": 4.2,
+      "workload": "heavy",
+      "would_recommend": true,
+      "review_text": "Computer Vision很有意思，但需要很强的线性代数和概率论基础。作业量大，但都是实际应用的项目，很有成就感。",
+      "tags": ["math-heavy", "project-based", "interesting"],
+      "helpful_count": 15,
+      "timestamp": "2025-12-10"
+    },
+    {
+      "review_id": "r004",
+      "course_code": "CSCI-UA 467",
+      "student_name": "赵六",
+      "student_year": "Class of 2026",
+      "term_taken": "Spring 2025",
+      "rating": 4.3,
+      "difficulty": 3.5,
+      "workload": "moderate",
+      "would_recommend": true,
+      "review_text": "NLP课程内容很前沿，涵盖了Transformer、BERT等最新技术。相比ML和CV，这门课难度适中，适合想入门NLP的同学。",
+      "tags": ["cutting-edge", "moderate-difficulty", "beginner-friendly"],
+      "helpful_count": 12,
+      "timestamp": "2025-05-18"
+    },
+    {
+      "review_id": "r005",
+      "course_code": "MATH-UA 140",
+      "student_name": "孙七",
+      "student_year": "Class of 2028",
+      "term_taken": "Fall 2025",
+      "rating": 4.0,
+      "difficulty": 3.5,
+      "workload": "moderate",
+      "would_recommend": true,
+      "review_text": "线性代数是CS必修，这门课讲得很清楚。作业量适中，考试难度也不大。建议早点修，对后面的ML、CV课程很有帮助。",
+      "tags": ["foundational", "clear-teaching", "useful"],
+      "helpful_count": 20,
+      "timestamp": "2025-12-08"
+    },
+    {
+      "review_id": "r006",
+      "course_code": "CSCI-UA 310",
+      "student_name": "周八",
+      "student_year": "Class of 2027",
+      "term_taken": "Spring 2025",
+      "rating": 3.8,
+      "difficulty": 4.0,
+      "workload": "heavy",
+      "would_recommend": true,
+      "review_text": "算法课很硬核，作业需要大量思考。Dennis Shasha教授很好，但考试有点难。建议多刷题，多去office hour。",
+      "tags": ["challenging", "theory-heavy", "good-professor"],
+      "helpful_count": 16,
+      "timestamp": "2025-05-15"
+    },
+    {
+      "review_id": "r007",
+      "course_code": "CSCI-UA 480",
+      "student_name": "吴九",
+      "student_year": "Class of 2026",
+      "term_taken": "Fall 2024",
+      "rating": 3.5,
+      "difficulty": 5.0,
+      "workload": "overload",
+      "would_recommend": false,
+      "review_text": "这门课太难了，我低估了工作量。如果你同时还有其他重课，建议慎重考虑。我最后拿了B，但付出了巨大的时间成本。",
+      "tags": ["very-challenging", "time-consuming", "not-for-beginners"],
+      "helpful_count": 10,
+      "timestamp": "2024-12-20"
+    },
+    {
+      "review_id": "r008",
+      "course_code": "ECON-UA 266",
+      "student_name": "郑十",
+      "student_year": "Class of 2027",
+      "term_taken": "Fall 2025",
+      "rating": 4.5,
+      "difficulty": 3.0,
+      "workload": "light",
+      "would_recommend": true,
+      "review_text": "Game Theory很有意思，而且难度不大。适合作为选修课，可以平衡其他重课的工作量。教授讲课很生动，用了很多实际案例。",
+      "tags": ["interesting", "light-workload", "good-for-elective"],
+      "helpful_count": 14,
+      "timestamp": "2025-12-05"
+    },
+    {
+      "review_id": "r009",
+      "course_code": "CSCI-UA 473",
+      "student_name": "钱十一",
+      "student_year": "Class of 2026",
+      "term_taken": "Spring 2025",
+      "rating": 4.8,
+      "difficulty": 4.0,
+      "workload": "moderate",
+      "would_recommend": true,
+      "review_text": "纽约的Computer Vision课程质量很高！教授是这个领域的专家，课程内容很前沿。Project可以用最新的深度学习框架，很实用。",
+      "tags": ["high-quality", "cutting-edge", "practical"],
+      "helpful_count": 19,
+      "timestamp": "2025-05-22"
+    },
+    {
+      "review_id": "r010",
+      "course_code": "CSCI-UA 101",
+      "student_name": "陈十二",
+      "student_year": "Class of 2028",
+      "term_taken": "Fall 2025",
+      "rating": 4.2,
+      "difficulty": 2.5,
+      "workload": "moderate",
+      "would_recommend": true,
+      "review_text": "CS入门课，Joanna Moss教授非常耐心。即使没有编程基础也能跟上。作业循序渐进，很适合初学者。",
+      "tags": ["beginner-friendly", "patient-professor", "good-intro"],
+      "helpful_count": 25,
+      "timestamp": "2025-12-12"
+    },
+    {
+      "review_id": "r011",
+      "course_code": "MATH-UA 235",
+      "student_name": "杨十三",
+      "student_year": "Class of 2027",
+      "term_taken": "Spring 2025",
+      "rating": 3.5,
+      "difficulty": 4.5,
+      "workload": "heavy",
+      "would_recommend": true,
+      "review_text": "概率论很难，但对ML和DS方向的同学来说是必修。建议先把线性代数学好再来上这门课。",
+      "tags": ["difficult", "math-heavy", "important-for-ml"],
+      "helpful_count": 11,
+      "timestamp": "2025-05-25"
+    },
+    {
+      "review_id": "r012",
+      "course_code": "CSCI-UA 467",
+      "student_name": "朱十四",
+      "student_year": "Class of 2026",
+      "term_taken": "Fall 2024",
+      "rating": 4.0,
+      "difficulty": 3.8,
+      "workload": "moderate",
+      "would_recommend": true,
+      "review_text": "NLP在纽约上很值得！课程内容紧跟最新研究，教授会讲很多industry的应用案例。Final project可以做自己感兴趣的方向。",
+      "tags": ["industry-relevant", "flexible-project", "up-to-date"],
+      "helpful_count": 13,
+      "timestamp": "2024-12-18"
+    }
+  ],
+  "tips": [
+    {
+      "tip_id": "t001",
+      "category": "study_away",
+      "title": "纽约选课技巧",
+      "author": "李明",
+      "content": "Study Away学生在纽约注册时优先级较低，热门课（如ML、CV）很容易满员。建议：1) 提前联系教授表达兴趣；2) 第一天就去waitlist；3) 准备好backup课程。",
+      "helpful_count": 45,
+      "timestamp": "2025-11-20"
+    },
+    {
+      "tip_id": "t002",
+      "category": "course_selection",
+      "title": "如何平衡课程难度",
+      "author": "王芳",
+      "content": "不要同时选3门以上的hard课（ML、CV、算法等）。我Fall 2025选了ML+CV+概率论，结果压力巨大。建议用1-2门轻松的选修课平衡工作量。",
+      "helpful_count": 38,
+      "timestamp": "2025-12-01"
+    },
+    {
+      "tip_id": "t003",
+      "category": "professor",
+      "title": "Ernest Davis的课怎么上",
+      "author": "张伟",
+      "content": "Davis教授的课理论性很强，作业难度大。建议：1) 课前预习PPT；2) 作业早点开始，不要拖到最后；3) 多去office hour，教授很愿意帮忙。",
+      "helpful_count": 32,
+      "timestamp": "2025-10-15"
+    },
+    {
+      "tip_id": "t004",
+      "category": "study_away",
+      "title": "纽约哪些课特别值得上",
+      "author": "刘洋",
+      "content": "强烈推荐纽约的AI方向课程（ML、CV、NLP），教授都是领域大牛，课程质量远超上海。如果对AI感兴趣，Study Away一定要选这些课。",
+      "helpful_count": 52,
+      "timestamp": "2025-11-10"
+    },
+    {
+      "tip_id": "t005",
+      "category": "prerequisite",
+      "title": "先修课真的很重要",
+      "author": "陈静",
+      "content": "不要跳过先修课直接上高级课！我没上过线性代数就去上ML，结果完全听不懂。虽然系统显示我可以注册，但实际上根本跟不上。",
+      "helpful_count": 28,
+      "timestamp": "2025-09-20"
+    },
+    {
+      "tip_id": "t006",
+      "category": "workload",
+      "title": "如何应对heavy workload",
+      "author": "赵强",
+      "content": "如果选了工作量大的课，建议：1) 用日历规划每周任务；2) 组队学习，互相帮助；3) 不要procrastinate，作业早点开始；4) 保持运动和睡眠，身体是革命的本钱。",
+      "helpful_count": 41,
+      "timestamp": "2025-10-25"
+    }
+  ],
+  "qa": [
+    {
+      "question_id": "q001",
+      "question": "CSCI-UA 480和CSCI-UA 473哪个更适合初学者？",
+      "asker": "新手小白",
+      "answers": [
+        {
+          "answer_id": "a001",
+          "author": "老司机",
+          "content": "都不太适合初学者😅 但如果一定要选，NLP（CSCI-UA 467）更友好一些。ML和CV都需要很强的数学基础。",
+          "helpful_count": 15,
+          "timestamp": "2025-11-15"
+        },
+        {
+          "answer_id": "a002",
+          "author": "过来人",
+          "content": "我建议先上CSCI-UA 310（算法），打好基础再上这两门课。不然会很痛苦。",
+          "helpful_count": 12,
+          "timestamp": "2025-11-16"
+        }
+      ],
+      "timestamp": "2025-11-14"
+    },
+    {
+      "question_id": "q002",
+      "question": "Study Away期间可以修几门CS课？",
+      "asker": "准备出国",
+      "answers": [
+        {
+          "answer_id": "a003",
+          "author": "CS学长",
+          "content": "CS专业最多3门专业选修。但要注意，Core课程（数据结构、算法等）必须在上海修完。",
+          "helpful_count": 20,
+          "timestamp": "2025-10-20"
+        }
+      ],
+      "timestamp": "2025-10-19"
+    },
+    {
+      "question_id": "q003",
+      "question": "纽约的课和上海的课有什么区别？",
+      "asker": "好奇宝宝",
+      "answers": [
+        {
+          "answer_id": "a004",
+          "author": "两边都上过",
+          "content": "纽约的AI方向课程（ML、CV、NLP）质量更高，教授都是领域大牛。但纽约的课workload也更大，要做好心理准备。",
+          "helpful_count": 25,
+          "timestamp": "2025-11-05"
+        },
+        {
+          "answer_id": "a005",
+          "author": "Study Away归来",
+          "content": "纽约的课更注重实践，project占比大。上海的课更注重理论，考试占比大。看你喜欢哪种风格。",
+          "helpful_count": 18,
+          "timestamp": "2025-11-06"
+        }
+      ],
+      "timestamp": "2025-11-04"
+    }
+  ]
+}

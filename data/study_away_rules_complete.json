@@ -1,0 +1,108 @@
+{
+  "general_rules": {
+    "priority_deadline": "April 6, 2026 at noon EDT",
+    "contact_email": "gpnyc@nyu.edu",
+    "office_hours": "Monday-Friday, 9:00 AM-5:00 PM (EDT)",
+    "course_request_form": "GPNYC Course Request form (for courses unable to add on Albert)",
+    "backup_courses": "At least 1 backup course for each course you wish to take",
+    "direct_contact_prohibited": "Students should NOT directly contact NY departments or course instructors",
+    "bursar_holds": "GPNYC cannot override Bursar or Advisor holds"
+  },
+
+  "registration_process": {
+    "step1": "Check if course has specific enrollment instructions",
+    "step2": "Verify prerequisites are met",
+    "step3": "Submit GPNYC Course Request form if unable to add on Albert",
+    "step4": "Wait for response (before registration if submitted by deadline)",
+    "step5": "Register on Albert when access is granted"
+  },
+
+  "credit_limits": {
+    "general": "Typically 12-18 credits per semester",
+    "stern_courses": "6-8 credits of Stern courses recommended",
+    "international_exchange_stern": "Maximum 2 Stern courses"
+  },
+
+  "departments": {
+    "Computer Science (CSCI-UA)": {
+      "school": "College of Arts & Science",
+      "contact": "cas.cs.undergrad@nyu.edu",
+      "form_required": "GPNYC Course Request Form",
+      "prerequisites": "Strictly enforced"
+    },
+
+    "Data Science (DS-UA / DS-GA)": {
+      "school": "College of Arts & Science",
+      "contact": "cds-undergraduate@nyu.edu",
+      "registration_start": "April 27 at 10:00AM ET",
+      "form_required": "NO - Email directly",
+      "email_include": "N#, course name, number, sections",
+      "course_restrictions": {
+        "DS-UA 111": "NY DS majors/minors only. Study Away take DS-UA 100",
+        "DS-UA 201": "First week: NY majors/minors only",
+        "DS-UA 202": "First week: NY majors. Unlikely for non-NY",
+        "DS-UA 205": "First week: NY majors/minors only",
+        "DS-UA 301": "First week: NY majors/minors only"
+      },
+      "prerequisites_shanghai": {
+        "Causal Inference": "(CSCI-SHU 101 or CSCI-UA 360) and MATH-SHU 235",
+        "Advanced Electives": "CSCI-UA 360 and MATH-SHU 235 and (MATH-SHU 140 or 141)"
+      },
+      "DS-GA_courses": "Grad students only initially. Opens August. Subscribe: https://bit.ly/DSGAPermission"
+    },
+
+    "Stern (ACCT-UB, ECON-UB, FINC-UB, INFO-UB, MGMT-UB, MKTG-UB, STAT-UB)": {
+      "school": "Stern School of Business",
+      "open_access_list": "Only prerequisites on Stern Open Access List accepted. No exceptions.",
+      "nyuad_nyush": {
+        "form_required": "NO",
+        "registration": "Register on open access date if prerequisites met"
+      },
+      "international_exchange": {
+        "max_courses": 2,
+        "restrictions": "Only courses WITHOUT prerequisites",
+        "form_required": "YES"
+      },
+      "credit_recommendation": "6-8 credits max",
+      "section_restrictions": "Cannot petition for Stern-only sections",
+      "building_access": "Limited (not considered Stern student)"
+    },
+
+    "Mathematics (MATH-UA)": {
+      "school": "College of Arts & Science",
+      "form_required": "GPNYC Course Request Form"
+    },
+
+    "Physics (PHYS-UA)": {
+      "school": "College of Arts & Science",
+      "form_required": "GPNYC Course Request Form"
+    },
+
+    "Economics (ECON-UA)": {
+      "school": "College of Arts & Science",
+      "form_required": "GPNYC Course Request Form",
+      "prerequisites": "Strictly enforced"
+    },
+
+    "Tandon Engineering": {
+      "MA-UY": "Use Tandon's own forms (NOT GPNYC)",
+      "ME-UY_AE-UY_ROB-UY": "Use Tandon ME/AE/ROB form (NOT GPNYC)",
+      "Chemistry_Physics": "Use CAS versions first (CHEM-UA, PHYS-UA)",
+      "CM-UY": "KAIST students only"
+    },
+
+    "Tisch Arts": {
+      "general": "Most courses restricted to Tisch majors",
+      "portfolio": "Some require portfolio",
+      "check_tab": "See Tisch tab for open courses"
+    }
+  },
+
+  "important_warnings": [
+    "Courses not guaranteed",
+    "Prerequisites must be met - no exceptions for most departments",
+    "Follow department-specific instructions exactly",
+    "Some departments have own request forms",
+    "Do not contact before specified dates"
+  ]
+}

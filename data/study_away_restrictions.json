@@ -1,0 +1,53 @@
+{
+  "Computer Science": {
+    "study_away_restrictions": [
+      "至少2门Core课程（CSCI-SHU 101, 210, 213, 220）必须在上海完成",
+      "Capstone项目（CSCI-SHU 470）必须在上海完成",
+      "最多可以在Study Away期间修3门CS专业选修课",
+      "纽约的CSCI-UA课程可以算作CS专业选修，但需要提前确认等效性"
+    ],
+    "recommended_courses_in_ny": [
+      "CSCI-UA 480 (Machine Learning)",
+      "CSCI-UA 473 (Computer Vision)",
+      "CSCI-UA 467 (NLP)",
+      "CSCI-UA 310 (Basic Algorithms)"
+    ],
+    "not_recommended": [
+      "CSCI-UA 101, 102 (已在上海修过等效课)",
+      "CSCI-UA 201 (等效CSCI-SHU 210，应在上海修)"
+    ]
+  },
+  "Data Science": {
+    "study_away_restrictions": [
+      "至少1门Core课程必须在上海完成",
+      "Capstone项目必须在上海完成",
+      "最多可以在Study Away期间修4门DS专业选修课",
+      "纽约的DS-UA和DS-GA课程都可以算作专业选修"
+    ],
+    "recommended_courses_in_ny": [
+      "DS-UA 112 (Principles of Data Science)",
+      "DS-GA 1008 (Deep Learning)",
+      "CSCI-UA 480 (Machine Learning)",
+      "MATH-UA 235 (Probability)"
+    ],
+    "not_recommended": []
+  },
+  "Mathematics": {
+    "study_away_restrictions": [
+      "至少3门Core课程必须在上海完成",
+      "最多可以在Study Away期间修4门数学选修课"
+    ],
+    "recommended_courses_in_ny": [
+      "MATH-UA 140 (Linear Algebra)",
+      "MATH-UA 235 (Probability)",
+      "MATH-UA 325 (Analysis)"
+    ],
+    "not_recommended": []
+  },
+  "general_rules": {
+    "credit_limits": "Study Away期间最多修16学分",
+    "registration_priority": "Study Away学生在纽约注册时优先级较低，热门课可能选不上",
+    "grade_transfer": "所有成绩都会转回上海，计入GPA",
+    "prerequisite_verification": "注册前必须确认已满足先修课要求（包括等效课）"
+  }
+}

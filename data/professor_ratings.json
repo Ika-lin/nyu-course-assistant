@@ -1,0 +1,67 @@
+{
+  "Ernest Davis": {
+    "department": "Computer Science",
+    "courses": ["CSCI-UA 473", "CSCI-UA 480"],
+    "overall_rating": 4.5,
+    "difficulty": 4.2,
+    "teaching_style": "理论深入，注重数学推导，作业有挑战性",
+    "grading": "公平但严格，curve适中",
+    "research_areas": ["AI", "Knowledge Representation", "Computer Vision"],
+    "student_reviews": [
+      "讲课清晰，但作业难度大",
+      "对AI理论讲解很透彻，适合想深入学习的学生"
+    ]
+  },
+  "Yann LeCun": {
+    "department": "Computer Science",
+    "courses": ["CSCI-UA 480", "DS-GA 1008"],
+    "overall_rating": 4.8,
+    "difficulty": 4.5,
+    "teaching_style": "深度学习领域权威，课程内容前沿",
+    "grading": "Project-based，注重实践",
+    "research_areas": ["Deep Learning", "Computer Vision", "AI"],
+    "student_reviews": [
+      "能听到LeCun讲课是荣幸，但内容很难",
+      "Project很有挑战，学到很多"
+    ]
+  },
+  "Joanna Moss": {
+    "department": "Computer Science",
+    "courses": ["CSCI-UA 101", "CSCI-UA 102"],
+    "overall_rating": 4.6,
+    "difficulty": 3.2,
+    "teaching_style": "耐心细致，适合初学者",
+    "grading": "友好，给分慷慨",
+    "research_areas": ["CS Education", "Programming Languages"],
+    "student_reviews": [
+      "非常适合CS入门，讲解清楚",
+      "Office hour很有帮助"
+    ]
+  },
+  "Dennis Shasha": {
+    "department": "Computer Science",
+    "courses": ["CSCI-UA 310", "CSCI-UA 480"],
+    "overall_rating": 4.4,
+    "difficulty": 3.8,
+    "teaching_style": "实践导向，喜欢用实际案例",
+    "grading": "合理，注重理解而非死记硬背",
+    "research_areas": ["Database Systems", "Algorithms", "Bioinformatics"],
+    "student_reviews": [
+      "课程设计很好，理论与实践结合",
+      "考试难度适中"
+    ]
+  },
+  "Amos Guiora": {
+    "department": "Mathematics",
+    "courses": ["MATH-UA 140", "MATH-UA 235"],
+    "overall_rating": 4.3,
+    "difficulty": 4.0,
+    "teaching_style": "严谨，注重证明",
+    "grading": "严格，curve较紧",
+    "research_areas": ["Linear Algebra", "Abstract Algebra"],
+    "student_reviews": [
+      "讲课逻辑清晰，但作业量大",
+      "对数学要求高"
+    ]
+  }
+}
