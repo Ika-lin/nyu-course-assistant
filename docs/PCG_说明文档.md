@@ -12,7 +12,7 @@
 
 **选手姓名**: [填写姓名]
 
-**Demo链接**: https://nyu-course-assistant.vercel.app
+**Demo链接**: https://nyu-course-assistant-iyfia3l96-yl13132-6607s-projects.vercel.app
 
 ---
 
