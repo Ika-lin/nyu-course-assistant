@@ -228,6 +228,7 @@ export async function POST(request: Request) {
             tool: toolName,
             status: 'failed',
             result: { error: error.message },
+            timestamp: new Date().toISOString(),
           });
 
           return {
